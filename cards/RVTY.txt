@@ -1,0 +1,8 @@
+Symbol: RVTY
+Security: Revvity
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Waltham, Massachusetts"
+Date added: 1985-05-31
+CIK: 0000031791
+Founded: 1937

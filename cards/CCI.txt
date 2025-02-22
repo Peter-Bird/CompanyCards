@@ -1,0 +1,8 @@
+Symbol: CCI
+Security: Crown Castle
+GICS Sector: Real Estate
+GICS Sub-Industry: Telecom Tower REITs
+Headquarters Location: "Houston, Texas"
+Date added: 2012-03-14
+CIK: 0001051470
+Founded: 1994

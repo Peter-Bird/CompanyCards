@@ -1,0 +1,8 @@
+Symbol: PODD
+Security: Insulet Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Acton, Massachusetts"
+Date added: 2023-03-15
+CIK: 0001145197
+Founded: 2000

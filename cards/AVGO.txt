@@ -1,0 +1,8 @@
+Symbol: AVGO
+Security: Broadcom
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Palo Alto, California"
+Date added: 2014-05-08
+CIK: 0001730168
+Founded: 1961

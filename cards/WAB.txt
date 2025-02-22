@@ -1,0 +1,8 @@
+Symbol: WAB
+Security: Wabtec
+GICS Sector: Industrials
+GICS Sub-Industry: Construction Machinery & Heavy Transportation Equipment
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 2019-02-27
+CIK: 0000943452
+Founded: 1999 (1869)

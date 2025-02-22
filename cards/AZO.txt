@@ -1,0 +1,8 @@
+Symbol: AZO
+Security: AutoZone
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automotive Retail
+Headquarters Location: "Memphis, Tennessee"
+Date added: 1997-01-02
+CIK: 0000866787
+Founded: 1979

@@ -1,0 +1,8 @@
+Symbol: DVN
+Security: Devon Energy
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Oklahoma City, Oklahoma"
+Date added: 2000-08-30
+CIK: 0001090012
+Founded: 1971

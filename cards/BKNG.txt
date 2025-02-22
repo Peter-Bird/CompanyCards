@@ -1,0 +1,8 @@
+Symbol: BKNG
+Security: Booking Holdings
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Hotels, Resorts & Cruise Lines
+Headquarters Location: "Norwalk, Connecticut"
+Date added: 2009-11-06
+CIK: 0001075531
+Founded: 1996

@@ -1,0 +1,8 @@
+Symbol: PYPL
+Security: PayPal
+GICS Sector: Financials
+GICS Sub-Industry: Transaction & Payment Processing Services
+Headquarters Location: "San Jose, California"
+Date added: 2015-07-20
+CIK: 0001633917
+Founded: 1998

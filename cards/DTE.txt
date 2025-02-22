@@ -1,0 +1,8 @@
+Symbol: DTE
+Security: DTE Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Detroit, Michigan"
+Date added: 1957-03-04
+CIK: 0000936340
+Founded: 1995

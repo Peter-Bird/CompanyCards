@@ -1,0 +1,8 @@
+Symbol: PH
+Security: Parker Hannifin
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Cleveland, Ohio"
+Date added: 1985-11-30
+CIK: 0000076334
+Founded: 1917

@@ -1,0 +1,8 @@
+Symbol: JBHT
+Security: J.B. Hunt
+GICS Sector: Industrials
+GICS Sub-Industry: Cargo Ground Transportation
+Headquarters Location: "Lowell, Arkansas"
+Date added: 2015-07-01
+CIK: 0000728535
+Founded: 1961

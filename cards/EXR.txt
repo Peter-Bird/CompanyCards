@@ -1,0 +1,8 @@
+Symbol: EXR
+Security: Extra Space Storage
+GICS Sector: Real Estate
+GICS Sub-Industry: Self-Storage REITs
+Headquarters Location: "Salt Lake City, Utah"
+Date added: 2016-01-19
+CIK: 0001289490
+Founded: 1977

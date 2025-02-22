@@ -1,0 +1,8 @@
+Symbol: UNP
+Security: Union Pacific Corporation
+GICS Sector: Industrials
+GICS Sub-Industry: Rail Transportation
+Headquarters Location: "Omaha, Nebraska"
+Date added: 1957-03-04
+CIK: 0000100885
+Founded: 1862

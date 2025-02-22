@@ -1,0 +1,8 @@
+Symbol: APTV
+Security: Aptiv
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automotive Parts & Equipment
+Headquarters Location: "Dublin, Ireland"
+Date added: 2012-12-24
+CIK: 0001521332
+Founded: 1994

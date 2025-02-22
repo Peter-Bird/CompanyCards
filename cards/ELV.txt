@@ -1,0 +1,8 @@
+Symbol: ELV
+Security: Elevance Health
+GICS Sector: Health Care
+GICS Sub-Industry: Managed Health Care
+Headquarters Location: "Indianapolis, Indiana"
+Date added: 2002-07-25
+CIK: 0001156039
+Founded: 2014 (1946)

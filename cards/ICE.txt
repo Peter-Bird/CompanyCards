@@ -1,0 +1,8 @@
+Symbol: ICE
+Security: Intercontinental Exchange
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "Atlanta, Georgia"
+Date added: 2007-09-26
+CIK: 0001571949
+Founded: 2000

@@ -1,0 +1,8 @@
+Symbol: GEV
+Security: GE Vernova
+GICS Sector: Industrials
+GICS Sub-Industry: Heavy Electrical Equipment
+Headquarters Location: "Cambridge, Massachusetts"
+Date added: 2024-04-02
+CIK: 0001996810
+Founded: 2024

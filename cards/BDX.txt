@@ -1,0 +1,8 @@
+Symbol: BDX
+Security: Becton Dickinson
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Franklin Lakes, New Jersey"
+Date added: 1972-09-30
+CIK: 0000010795
+Founded: 1897

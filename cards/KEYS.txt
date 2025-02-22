@@ -1,0 +1,8 @@
+Symbol: KEYS
+Security: Keysight Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Equipment & Instruments
+Headquarters Location: "Santa Rosa, California"
+Date added: 2018-11-06
+CIK: 0001601046
+Founded: 2014 (1939)

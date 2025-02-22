@@ -1,0 +1,8 @@
+Symbol: BG
+Security: Bunge Global
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Agricultural Products & Services
+Headquarters Location: "Chesterfield, Missouri"
+Date added: 2023-03-15
+CIK: 0001996862
+Founded: 1818

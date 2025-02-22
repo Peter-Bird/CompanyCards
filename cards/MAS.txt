@@ -1,0 +1,8 @@
+Symbol: MAS
+Security: Masco
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Livonia, Michigan"
+Date added: 1981-06-30
+CIK: 0000062996
+Founded: 1929

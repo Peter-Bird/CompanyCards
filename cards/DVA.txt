@@ -1,0 +1,8 @@
+Symbol: DVA
+Security: DaVita
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Services
+Headquarters Location: "Denver, Colorado"
+Date added: 2008-07-31
+CIK: 0000927066
+Founded: 1979

@@ -1,0 +1,8 @@
+Symbol: AWK
+Security: American Water Works
+GICS Sector: Utilities
+GICS Sub-Industry: Water Utilities
+Headquarters Location: "Camden, New Jersey"
+Date added: 2016-03-04
+CIK: 0001410636
+Founded: 1886

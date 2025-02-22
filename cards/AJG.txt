@@ -1,0 +1,8 @@
+Symbol: AJG
+Security: Arthur J. Gallagher & Co.
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "Rolling Meadows, Illinois"
+Date added: 2016-05-31
+CIK: 0000354190
+Founded: 1927

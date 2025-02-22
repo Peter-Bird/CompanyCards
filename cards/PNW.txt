@@ -1,0 +1,8 @@
+Symbol: PNW
+Security: Pinnacle West
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Phoenix, Arizona"
+Date added: 1999-10-04
+CIK: 0000764622
+Founded: 1985

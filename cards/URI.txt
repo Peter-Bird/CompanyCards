@@ -1,0 +1,8 @@
+Symbol: URI
+Security: United Rentals
+GICS Sector: Industrials
+GICS Sub-Industry: Trading Companies & Distributors
+Headquarters Location: "Stamford, Connecticut"
+Date added: 2014-09-20
+CIK: 0001067701
+Founded: 1997

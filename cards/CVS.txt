@@ -1,0 +1,8 @@
+Symbol: CVS
+Security: CVS Health
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Services
+Headquarters Location: "Woonsocket, Rhode Island"
+Date added: 1957-03-04
+CIK: 0000064803
+Founded: 1996

@@ -1,0 +1,8 @@
+Symbol: CAT
+Security: Caterpillar Inc.
+GICS Sector: Industrials
+GICS Sub-Industry: Construction Machinery & Heavy Transportation Equipment
+Headquarters Location: "Irving, Texas"
+Date added: 1957-03-04
+CIK: 0000018230
+Founded: 1925

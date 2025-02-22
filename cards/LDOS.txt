@@ -1,0 +1,8 @@
+Symbol: LDOS
+Security: Leidos
+GICS Sector: Industrials
+GICS Sub-Industry: Diversified Support Services
+Headquarters Location: "Reston, Virginia"
+Date added: 2019-08-09
+CIK: 0001336920
+Founded: 1969

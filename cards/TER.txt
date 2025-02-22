@@ -1,0 +1,8 @@
+Symbol: TER
+Security: Teradyne
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductor Materials & Equipment
+Headquarters Location: "North Reading, Massachusetts"
+Date added: 2020-09-21
+CIK: 0000097210
+Founded: 1960

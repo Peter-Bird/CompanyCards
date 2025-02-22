@@ -1,0 +1,8 @@
+Symbol: MHK
+Security: Mohawk Industries
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Home Furnishings
+Headquarters Location: "Calhoun, Georgia"
+Date added: 2013-12-23
+CIK: 0000851968
+Founded: 1878

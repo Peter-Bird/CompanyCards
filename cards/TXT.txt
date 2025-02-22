@@ -1,0 +1,8 @@
+Symbol: TXT
+Security: Textron
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Providence, Rhode Island"
+Date added: 1978-12-31
+CIK: 0000217346
+Founded: 1923

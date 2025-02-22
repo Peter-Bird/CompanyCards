@@ -1,0 +1,8 @@
+Symbol: NXPI
+Security: NXP Semiconductors
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Eindhoven, Netherlands"
+Date added: 2021-03-22
+CIK: 0001413447
+Founded: 1953

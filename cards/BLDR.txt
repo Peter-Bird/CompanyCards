@@ -1,0 +1,8 @@
+Symbol: BLDR
+Security: Builders FirstSource
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Irving, Texas"
+Date added: 2023-12-18
+CIK: 0001316835
+Founded: 1998

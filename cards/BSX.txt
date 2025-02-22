@@ -1,0 +1,8 @@
+Symbol: BSX
+Security: Boston Scientific
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Marlborough, Massachusetts"
+Date added: 1995-02-24
+CIK: 0000885725
+Founded: 1979

@@ -1,0 +1,8 @@
+Symbol: LLY
+Security: Lilly (Eli)
+GICS Sector: Health Care
+GICS Sub-Industry: Pharmaceuticals
+Headquarters Location: "Indianapolis, Indiana"
+Date added: 1970-12-31
+CIK: 0000059478
+Founded: 1876

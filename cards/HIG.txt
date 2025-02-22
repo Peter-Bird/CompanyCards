@@ -1,0 +1,8 @@
+Symbol: HIG
+Security: Hartford (The)
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Hartford, Connecticut"
+Date added: 1957-03-04
+CIK: 0000874766
+Founded: 1810

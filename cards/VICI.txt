@@ -1,0 +1,8 @@
+Symbol: VICI
+Security: Vici Properties
+GICS Sector: Real Estate
+GICS Sub-Industry: Hotel & Resort REITs
+Headquarters Location: "New York City, New York"
+Date added: 2022-06-08
+CIK: 0001705696
+Founded: 2017

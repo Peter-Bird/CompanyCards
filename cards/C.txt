@@ -1,0 +1,8 @@
+Symbol: C
+Security: Citigroup
+GICS Sector: Financials
+GICS Sub-Industry: Diversified Banks
+Headquarters Location: "New York City, New York"
+Date added: 1988-05-31
+CIK: 0000831001
+Founded: 1998

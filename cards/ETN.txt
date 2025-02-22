@@ -1,0 +1,8 @@
+Symbol: ETN
+Security: Eaton Corporation
+GICS Sector: Industrials
+GICS Sub-Industry: Electrical Components & Equipment
+Headquarters Location: "Dublin, Ireland"
+Date added: 1957-03-04
+CIK: 0001551182
+Founded: 1911

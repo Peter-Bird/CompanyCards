@@ -1,0 +1,8 @@
+Symbol: GOOG
+Security: Alphabet Inc. (Class C)
+GICS Sector: Communication Services
+GICS Sub-Industry: Interactive Media & Services
+Headquarters Location: "Mountain View, California"
+Date added: 2006-04-03
+CIK: 0001652044
+Founded: 1998

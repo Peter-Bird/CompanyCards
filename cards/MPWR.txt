@@ -1,0 +1,8 @@
+Symbol: MPWR
+Security: Monolithic Power Systems
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Kirkland, Washington"
+Date added: 2021-02-12
+CIK: 0001280452
+Founded: 1997

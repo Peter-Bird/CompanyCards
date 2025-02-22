@@ -1,0 +1,8 @@
+Symbol: MNST
+Security: Monster Beverage
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Soft Drinks & Non-alcoholic Beverages
+Headquarters Location: "Corona, California"
+Date added: 2012-06-28
+CIK: 0000865752
+Founded: 2012 (1935)

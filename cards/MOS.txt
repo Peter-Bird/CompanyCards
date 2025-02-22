@@ -1,0 +1,8 @@
+Symbol: MOS
+Security: Mosaic Company (The)
+GICS Sector: Materials
+GICS Sub-Industry: Fertilizers & Agricultural Chemicals
+Headquarters Location: "Tampa, Florida"
+Date added: 2011-09-26
+CIK: 0001285785
+Founded: 2004 (1865 / 1909)

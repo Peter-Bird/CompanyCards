@@ -1,0 +1,8 @@
+Symbol: ALLE
+Security: Allegion
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Dublin, Ireland"
+Date added: 2013-12-02
+CIK: 0001579241
+Founded: 1908

@@ -1,0 +1,8 @@
+Symbol: LII
+Security: Lennox International
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Richardson, Texas"
+Date added: 2024-12-23
+CIK: 0001069202
+Founded: 1895

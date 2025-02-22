@@ -1,0 +1,8 @@
+Symbol: MTD
+Security: Mettler Toledo
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Columbus, Ohio"
+Date added: 2016-09-06
+CIK: 0001037646
+Founded: 1945

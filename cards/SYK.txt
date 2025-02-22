@@ -1,0 +1,8 @@
+Symbol: SYK
+Security: Stryker Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Kalamazoo, Michigan"
+Date added: 2000-12-12
+CIK: 0000310764
+Founded: 1941

@@ -1,0 +1,8 @@
+Symbol: GDDY
+Security: GoDaddy
+GICS Sector: Information Technology
+GICS Sub-Industry: Internet Services & Infrastructure
+Headquarters Location: "Tempe, Arizona"
+Date added: 2024-06-24
+CIK: 0001609711
+Founded: 1997

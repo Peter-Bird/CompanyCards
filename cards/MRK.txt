@@ -1,0 +1,8 @@
+Symbol: MRK
+Security: Merck & Co.
+GICS Sector: Health Care
+GICS Sub-Industry: Pharmaceuticals
+Headquarters Location: "Kenilworth, New Jersey"
+Date added: 1957-03-04
+CIK: 0000310158
+Founded: 1891

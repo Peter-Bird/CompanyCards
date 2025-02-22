@@ -1,0 +1,8 @@
+Symbol: AMAT
+Security: Applied Materials
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductor Materials & Equipment
+Headquarters Location: "Santa Clara, California"
+Date added: 1995-03-16
+CIK: 0000006951
+Founded: 1967

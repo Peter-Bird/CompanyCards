@@ -1,0 +1,8 @@
+Symbol: GILD
+Security: Gilead Sciences
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Foster City, California"
+Date added: 2004-07-01
+CIK: 0000882095
+Founded: 1987

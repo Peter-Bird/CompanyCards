@@ -1,0 +1,8 @@
+Symbol: HOLX
+Security: Hologic
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Marlborough, Massachusetts"
+Date added: 2016-03-30
+CIK: 0000859737
+Founded: 1985

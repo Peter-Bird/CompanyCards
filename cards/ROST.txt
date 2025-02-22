@@ -1,0 +1,8 @@
+Symbol: ROST
+Security: Ross Stores
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel Retail
+Headquarters Location: "Dublin, California"
+Date added: 2009-12-21
+CIK: 0000745732
+Founded: 1982

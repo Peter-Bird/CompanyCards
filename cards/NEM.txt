@@ -1,0 +1,8 @@
+Symbol: NEM
+Security: Newmont
+GICS Sector: Materials
+GICS Sub-Industry: Gold
+Headquarters Location: "Denver, Colorado"
+Date added: 1969-06-30
+CIK: 0001164727
+Founded: 1921

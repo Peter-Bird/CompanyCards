@@ -1,0 +1,8 @@
+Symbol: EW
+Security: Edwards Lifesciences
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Irvine, California"
+Date added: 2011-04-01
+CIK: 0001099800
+Founded: 1958

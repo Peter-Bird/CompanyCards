@@ -1,0 +1,8 @@
+Symbol: SNPS
+Security: Synopsys
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Sunnyvale, California"
+Date added: 2017-03-16
+CIK: 0000883241
+Founded: 1986

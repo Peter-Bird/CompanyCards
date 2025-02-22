@@ -1,0 +1,8 @@
+Symbol: V
+Security: Visa Inc.
+GICS Sector: Financials
+GICS Sub-Industry: Transaction & Payment Processing Services
+Headquarters Location: "San Francisco, California"
+Date added: 2009-12-21
+CIK: 0001403161
+Founded: 1958

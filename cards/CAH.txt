@@ -1,0 +1,8 @@
+Symbol: CAH
+Security: Cardinal Health
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Distributors
+Headquarters Location: "Dublin, Ohio"
+Date added: 1997-05-27
+CIK: 0000721371
+Founded: 1971

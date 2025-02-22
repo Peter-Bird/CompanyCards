@@ -1,0 +1,8 @@
+Symbol: DFS
+Security: Discover Financial
+GICS Sector: Financials
+GICS Sub-Industry: Consumer Finance
+Headquarters Location: "Riverwoods, Illinois"
+Date added: 2007-07-02
+CIK: 0001393612
+Founded: 1985

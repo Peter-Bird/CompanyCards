@@ -1,0 +1,8 @@
+Symbol: TSLA
+Security: Tesla, Inc.
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automobile Manufacturers
+Headquarters Location: "Austin, Texas"
+Date added: 2020-12-21
+CIK: 0001318605
+Founded: 2003

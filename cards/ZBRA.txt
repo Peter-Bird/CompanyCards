@@ -1,0 +1,8 @@
+Symbol: ZBRA
+Security: Zebra Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Equipment & Instruments
+Headquarters Location: "Lincolnshire, Illinois"
+Date added: 2019-12-23
+CIK: 0000877212
+Founded: 1969

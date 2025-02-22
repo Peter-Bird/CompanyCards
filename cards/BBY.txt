@@ -1,0 +1,8 @@
+Symbol: BBY
+Security: Best Buy
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Computer & Electronics Retail
+Headquarters Location: "Richfield, Minnesota"
+Date added: 1999-06-29
+CIK: 0000764478
+Founded: 1966

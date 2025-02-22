@@ -1,0 +1,8 @@
+Symbol: REG
+Security: Regency Centers
+GICS Sector: Real Estate
+GICS Sub-Industry: Retail REITs
+Headquarters Location: "Jacksonville, Florida"
+Date added: 2017-03-02
+CIK: 0000910606
+Founded: 1963

@@ -1,0 +1,8 @@
+Symbol: UAL
+Security: United Airlines Holdings
+GICS Sector: Industrials
+GICS Sub-Industry: Passenger Airlines
+Headquarters Location: "Chicago, Illinois"
+Date added: 2015-09-03
+CIK: 0000100517
+Founded: 1967

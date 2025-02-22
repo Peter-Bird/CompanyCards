@@ -1,0 +1,8 @@
+Symbol: BKR
+Security: Baker Hughes
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Equipment & Services
+Headquarters Location: "Houston, Texas"
+Date added: 2017-07-07
+CIK: 0001701605
+Founded: 2017

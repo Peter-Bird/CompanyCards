@@ -1,0 +1,8 @@
+Symbol: PNR
+Security: Pentair
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Worsley, United Kingdom"
+Date added: 2012-10-01
+CIK: 0000077360
+Founded: 1966

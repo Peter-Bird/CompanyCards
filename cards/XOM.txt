@@ -1,0 +1,8 @@
+Symbol: XOM
+Security: ExxonMobil
+GICS Sector: Energy
+GICS Sub-Industry: Integrated Oil & Gas
+Headquarters Location: "Irving, Texas"
+Date added: 1957-03-04
+CIK: 0000034088
+Founded: 1999

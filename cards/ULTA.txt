@@ -1,0 +1,8 @@
+Symbol: ULTA
+Security: Ulta Beauty
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Other Specialty Retail
+Headquarters Location: "Bolingbrook, Illinois"
+Date added: 2016-04-18
+CIK: 0001403568
+Founded: 1990

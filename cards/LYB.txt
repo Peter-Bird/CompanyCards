@@ -1,0 +1,8 @@
+Symbol: LYB
+Security: LyondellBasell
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Rotterdam, Netherlands"
+Date added: 2012-09-05
+CIK: 0001489393
+Founded: 2007

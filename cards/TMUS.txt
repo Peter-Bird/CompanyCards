@@ -1,0 +1,8 @@
+Symbol: TMUS
+Security: T-Mobile US
+GICS Sector: Communication Services
+GICS Sub-Industry: Wireless Telecommunication Services
+Headquarters Location: "Bellevue, Washington"
+Date added: 2019-07-15
+CIK: 0001283699
+Founded: 1994

@@ -1,0 +1,8 @@
+Symbol: DAL
+Security: Delta Air Lines
+GICS Sector: Industrials
+GICS Sub-Industry: Passenger Airlines
+Headquarters Location: "Atlanta, Georgia"
+Date added: 2013-09-11
+CIK: 0000027904
+Founded: 1929

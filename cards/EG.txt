@@ -1,0 +1,8 @@
+Symbol: EG
+Security: Everest Group
+GICS Sector: Financials
+GICS Sub-Industry: Reinsurance
+Headquarters Location: "Hamilton, Bermuda"
+Date added: 2017-06-19
+CIK: 0001095073
+Founded: 1973

@@ -1,0 +1,8 @@
+Symbol: GRMN
+Security: Garmin
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Consumer Electronics
+Headquarters Location: "Schaffhausen, Switzerland"
+Date added: 2012-12-12
+CIK: 0001121788
+Founded: 1989

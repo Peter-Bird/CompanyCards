@@ -1,0 +1,8 @@
+Symbol: CPB
+Security: Campbell Soup Company
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Camden, New Jersey"
+Date added: 1957-03-04
+CIK: 0000016732
+Founded: 1869

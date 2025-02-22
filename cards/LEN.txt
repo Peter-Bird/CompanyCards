@@ -1,0 +1,8 @@
+Symbol: LEN
+Security: Lennar
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Homebuilding
+Headquarters Location: "Miami, Florida"
+Date added: 2005-10-04
+CIK: 0000920760
+Founded: 1954

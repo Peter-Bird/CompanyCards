@@ -1,0 +1,8 @@
+Symbol: AEE
+Security: Ameren
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "St. Louis, Missouri"
+Date added: 1991-09-19
+CIK: 0001002910
+Founded: 1902

@@ -1,0 +1,8 @@
+Symbol: HWM
+Security: Howmet Aerospace
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 2016-10-21
+CIK: 0000004281
+Founded: 1888

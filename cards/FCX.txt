@@ -1,0 +1,8 @@
+Symbol: FCX
+Security: Freeport-McMoRan
+GICS Sector: Materials
+GICS Sub-Industry: Copper
+Headquarters Location: "Phoenix, Arizona"
+Date added: 2011-07-01
+CIK: 0000831259
+Founded: 1912

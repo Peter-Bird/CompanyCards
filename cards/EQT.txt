@@ -1,0 +1,8 @@
+Symbol: EQT
+Security: EQT Corporation
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 2022-10-03
+CIK: 0000033213
+Founded: 1888

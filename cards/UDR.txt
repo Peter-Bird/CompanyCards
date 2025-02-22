@@ -1,0 +1,8 @@
+Symbol: UDR
+Security: UDR, Inc.
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "Highlands Ranch, Colorado"
+Date added: 2016-03-07
+CIK: 0000074208
+Founded: 1972

@@ -1,0 +1,8 @@
+Symbol: DRI
+Security: Darden Restaurants
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Orlando, Florida"
+Date added: 1995-05-31
+CIK: 0000940944
+Founded: 1938

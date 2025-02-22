@@ -1,0 +1,8 @@
+Symbol: NSC
+Security: Norfolk Southern Railway
+GICS Sector: Industrials
+GICS Sub-Industry: Rail Transportation
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1957-03-04
+CIK: 0000702165
+Founded: 1881/1894 (1980)

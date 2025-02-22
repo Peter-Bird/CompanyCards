@@ -1,0 +1,8 @@
+Symbol: FOXA
+Security: Fox Corporation (Class A)
+GICS Sector: Communication Services
+GICS Sub-Industry: Broadcasting
+Headquarters Location: "New York City, New York"
+Date added: 2019-03-04
+CIK: 0001754301
+Founded: 2019

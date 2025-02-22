@@ -1,0 +1,8 @@
+Symbol: CF
+Security: CF Industries
+GICS Sector: Materials
+GICS Sub-Industry: Fertilizers & Agricultural Chemicals
+Headquarters Location: "Deerfield, Illinois"
+Date added: 2008-08-27
+CIK: 0001324404
+Founded: 1946

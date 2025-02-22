@@ -1,0 +1,8 @@
+Symbol: ACGL
+Security: Arch Capital Group
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Hamilton, Bermuda"
+Date added: 2022-11-01
+CIK: 0000947484
+Founded: 1995

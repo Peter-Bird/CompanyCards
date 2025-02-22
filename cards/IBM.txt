@@ -1,0 +1,8 @@
+Symbol: IBM
+Security: IBM
+GICS Sector: Information Technology
+GICS Sub-Industry: IT Consulting & Other Services
+Headquarters Location: "Armonk, New York"
+Date added: 1957-03-04
+CIK: 0000051143
+Founded: 1911

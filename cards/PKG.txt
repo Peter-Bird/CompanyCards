@@ -1,0 +1,8 @@
+Symbol: PKG
+Security: Packaging Corporation of America
+GICS Sector: Materials
+GICS Sub-Industry: Paper & Plastic Packaging Products & Materials
+Headquarters Location: "Lake Forest, Illinois"
+Date added: 2017-07-26
+CIK: 0000075677
+Founded: 1959

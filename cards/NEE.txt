@@ -1,0 +1,8 @@
+Symbol: NEE
+Security: NextEra Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Juno Beach, Florida"
+Date added: 1976-06-30
+CIK: 0000753308
+Founded: 1984 (1925)

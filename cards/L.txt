@@ -1,0 +1,8 @@
+Symbol: L
+Security: Loews Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Multi-line Insurance
+Headquarters Location: "New York City, New York"
+Date added: 1995-05-31
+CIK: 0000060086
+Founded: 1959

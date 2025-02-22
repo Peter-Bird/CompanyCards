@@ -1,0 +1,8 @@
+Symbol: WTW
+Security: Willis Towers Watson
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "London, United Kingdom"
+Date added: 2016-01-05
+CIK: 0001140536
+Founded: 2016

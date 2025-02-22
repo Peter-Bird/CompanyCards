@@ -1,0 +1,8 @@
+Symbol: WMB
+Security: Williams Companies
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Storage & Transportation
+Headquarters Location: "Tulsa, Oklahoma"
+Date added: 1975-03-31
+CIK: 0000107263
+Founded: 1908

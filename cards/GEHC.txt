@@ -1,0 +1,8 @@
+Symbol: GEHC
+Security: GE HealthCare
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Chicago, Illinois"
+Date added: 2023-01-04
+CIK: 0001932393
+Founded: 1994

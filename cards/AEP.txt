@@ -1,0 +1,8 @@
+Symbol: AEP
+Security: American Electric Power
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Columbus, Ohio"
+Date added: 1957-03-04
+CIK: 0000004904
+Founded: 1906

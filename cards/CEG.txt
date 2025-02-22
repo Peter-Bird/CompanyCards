@@ -1,0 +1,8 @@
+Symbol: CEG
+Security: Constellation Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Baltimore, Maryland"
+Date added: 2022-02-02
+CIK: 0001868275
+Founded: 1999

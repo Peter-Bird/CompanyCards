@@ -1,0 +1,8 @@
+Symbol: IVZ
+Security: Invesco
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "Atlanta, Georgia"
+Date added: 2008-08-21
+CIK: 0000914208
+Founded: 1935

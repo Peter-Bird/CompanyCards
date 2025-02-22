@@ -1,0 +1,8 @@
+Symbol: WAT
+Security: Waters Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Milford, Massachusetts"
+Date added: 2002-01-02
+CIK: 0001000697
+Founded: 1958

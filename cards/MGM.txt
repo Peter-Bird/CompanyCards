@@ -1,0 +1,8 @@
+Symbol: MGM
+Security: MGM Resorts
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Casinos & Gaming
+Headquarters Location: "Paradise, Nevada"
+Date added: 2017-07-26
+CIK: 0000789570
+Founded: 1986

@@ -1,0 +1,8 @@
+Symbol: HBAN
+Security: Huntington Bancshares
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Columbus, Ohio; Detroit, Michigan"
+Date added: 1997-08-28
+CIK: 0000049196
+Founded: 1866

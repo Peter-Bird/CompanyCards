@@ -1,0 +1,8 @@
+Symbol: JNJ
+Security: Johnson & Johnson
+GICS Sector: Health Care
+GICS Sub-Industry: Pharmaceuticals
+Headquarters Location: "New Brunswick, New Jersey"
+Date added: 1973-06-30
+CIK: 0000200406
+Founded: 1886

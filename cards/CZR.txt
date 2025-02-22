@@ -1,0 +1,8 @@
+Symbol: CZR
+Security: Caesars Entertainment
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Casinos & Gaming
+Headquarters Location: "Reno, Nevada"
+Date added: 2021-03-22
+CIK: 0001590895
+Founded: 1973

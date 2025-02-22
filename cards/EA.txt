@@ -1,0 +1,8 @@
+Symbol: EA
+Security: Electronic Arts
+GICS Sector: Communication Services
+GICS Sub-Industry: Interactive Home Entertainment
+Headquarters Location: "Redwood City, California"
+Date added: 2002-07-22
+CIK: 0000712515
+Founded: 1982

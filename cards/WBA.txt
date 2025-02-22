@@ -1,0 +1,8 @@
+Symbol: WBA
+Security: Walgreens Boots Alliance
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Drug Retail
+Headquarters Location: "Deerfield, Illinois"
+Date added: 1979-12-31
+CIK: 0001618921
+Founded: 2014

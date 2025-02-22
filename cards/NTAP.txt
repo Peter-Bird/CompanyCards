@@ -1,0 +1,8 @@
+Symbol: NTAP
+Security: NetApp
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "San Jose, California"
+Date added: 1999-06-25
+CIK: 0001002047
+Founded: 1992

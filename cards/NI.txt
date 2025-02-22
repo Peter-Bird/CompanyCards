@@ -1,0 +1,8 @@
+Symbol: NI
+Security: NiSource
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Merrillville, Indiana"
+Date added: 2000-11-02
+CIK: 0001111711
+Founded: 1912

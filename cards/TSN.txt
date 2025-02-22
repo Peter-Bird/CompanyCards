@@ -1,0 +1,8 @@
+Symbol: TSN
+Security: Tyson Foods
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Springdale, Arkansas"
+Date added: 2005-08-10
+CIK: 0000100493
+Founded: 1935

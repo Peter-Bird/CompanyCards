@@ -1,0 +1,8 @@
+Symbol: VST
+Security: Vistra Corp.
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Irving, Texas"
+Date added: 2024-05-08
+CIK: 0001692819
+Founded: 2016

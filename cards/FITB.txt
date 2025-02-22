@@ -1,0 +1,8 @@
+Symbol: FITB
+Security: Fifth Third Bancorp
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Cincinnati, Ohio"
+Date added: 1996-03-29
+CIK: 0000035527
+Founded: 1858

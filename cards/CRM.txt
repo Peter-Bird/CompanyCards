@@ -1,0 +1,8 @@
+Symbol: CRM
+Security: Salesforce
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "San Francisco, California"
+Date added: 2008-09-15
+CIK: 0001108524
+Founded: 1999

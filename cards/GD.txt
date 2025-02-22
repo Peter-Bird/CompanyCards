@@ -1,0 +1,8 @@
+Symbol: GD
+Security: General Dynamics
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Falls Church, Virginia"
+Date added: 1957-03-04
+CIK: 0000040533
+Founded: 1899

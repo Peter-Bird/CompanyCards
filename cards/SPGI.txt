@@ -1,0 +1,8 @@
+Symbol: SPGI
+Security: S&P Global
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "New York City, New York"
+Date added: 1957-03-04
+CIK: 0000064040
+Founded: 1917

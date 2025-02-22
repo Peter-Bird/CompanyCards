@@ -1,0 +1,8 @@
+Symbol: DLR
+Security: Digital Realty
+GICS Sector: Real Estate
+GICS Sub-Industry: Data Center REITs
+Headquarters Location: "Austin, Texas"
+Date added: 2016-05-18
+CIK: 0001297996
+Founded: 2004

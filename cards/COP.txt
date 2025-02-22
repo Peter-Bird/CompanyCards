@@ -1,0 +1,8 @@
+Symbol: COP
+Security: ConocoPhillips
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Houston, Texas"
+Date added: 1957-03-04
+CIK: 0001163165
+Founded: 2002

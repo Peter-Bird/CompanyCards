@@ -1,0 +1,8 @@
+Symbol: A
+Security: Agilent Technologies
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Santa Clara, California"
+Date added: 2000-06-05
+CIK: 0001090872
+Founded: 1999

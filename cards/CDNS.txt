@@ -1,0 +1,8 @@
+Symbol: CDNS
+Security: Cadence Design Systems
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "San Jose, California"
+Date added: 2017-09-18
+CIK: 0000813672
+Founded: 1988

@@ -1,0 +1,8 @@
+Symbol: PCAR
+Security: Paccar
+GICS Sector: Industrials
+GICS Sub-Industry: Construction Machinery & Heavy Transportation Equipment
+Headquarters Location: "Bellevue, Washington"
+Date added: 1980-12-31
+CIK: 0000075362
+Founded: 1905

@@ -1,0 +1,8 @@
+Symbol: ANSS
+Security: Ansys
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Canonsburg, Pennsylvania"
+Date added: 2017-06-19
+CIK: 0001013462
+Founded: 1969

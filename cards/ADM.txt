@@ -1,0 +1,8 @@
+Symbol: ADM
+Security: Archer Daniels Midland
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Agricultural Products & Services
+Headquarters Location: "Chicago, Illinois"
+Date added: 1957-03-04
+CIK: 0000007084
+Founded: 1902

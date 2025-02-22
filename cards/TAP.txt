@@ -1,0 +1,8 @@
+Symbol: TAP
+Security: Molson Coors Beverage Company
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Brewers
+Headquarters Location: "Chicago, Illinois"
+Date added: 1976-06-30
+CIK: 0000024545
+Founded: 2005 (Molson 1786, Coors 1873)

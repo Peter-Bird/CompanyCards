@@ -1,0 +1,8 @@
+Symbol: ROL
+Security: Rollins, Inc.
+GICS Sector: Industrials
+GICS Sub-Industry: Environmental & Facilities Services
+Headquarters Location: "Atlanta, Georgia"
+Date added: 2018-10-01
+CIK: 0000084839
+Founded: 1948

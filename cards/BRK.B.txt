@@ -1,0 +1,8 @@
+Symbol: BRK.B
+Security: Berkshire Hathaway
+GICS Sector: Financials
+GICS Sub-Industry: Multi-Sector Holdings
+Headquarters Location: "Omaha, Nebraska"
+Date added: 2010-02-16
+CIK: 0001067983
+Founded: 1839

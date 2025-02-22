@@ -1,0 +1,8 @@
+Symbol: CTSH
+Security: Cognizant
+GICS Sector: Information Technology
+GICS Sub-Industry: IT Consulting & Other Services
+Headquarters Location: "Teaneck, New Jersey"
+Date added: 2006-11-17
+CIK: 0001058290
+Founded: 1994

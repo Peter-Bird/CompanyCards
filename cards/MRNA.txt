@@ -1,0 +1,8 @@
+Symbol: MRNA
+Security: Moderna
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Cambridge, Massachusetts"
+Date added: 2021-07-21
+CIK: 0001682852
+Founded: 2010

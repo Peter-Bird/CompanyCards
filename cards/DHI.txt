@@ -1,0 +1,8 @@
+Symbol: DHI
+Security: D. R. Horton
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Homebuilding
+Headquarters Location: "Arlington, Texas"
+Date added: 2005-06-22
+CIK: 0000882184
+Founded: 1978

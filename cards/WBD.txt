@@ -1,0 +1,8 @@
+Symbol: WBD
+Security: Warner Bros. Discovery
+GICS Sector: Communication Services
+GICS Sub-Industry: Broadcasting
+Headquarters Location: "New York City, New York"
+Date added: 2022-04-11
+CIK: 0001437107
+Founded: 2022 (Warner Bros. 1923)

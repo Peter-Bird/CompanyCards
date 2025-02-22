@@ -1,0 +1,8 @@
+Symbol: BR
+Security: Broadridge Financial Solutions
+GICS Sector: Industrials
+GICS Sub-Industry: Data Processing & Outsourced Services
+Headquarters Location: "Lake Success, New York"
+Date added: 2018-06-18
+CIK: 0001383312
+Founded: 1962

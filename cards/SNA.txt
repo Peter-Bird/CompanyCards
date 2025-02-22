@@ -1,0 +1,8 @@
+Symbol: SNA
+Security: Snap-on
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Kenosha, Wisconsin"
+Date added: 1982-09-30
+CIK: 0000091440
+Founded: 1920

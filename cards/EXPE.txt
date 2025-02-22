@@ -1,0 +1,8 @@
+Symbol: EXPE
+Security: Expedia Group
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Hotels, Resorts & Cruise Lines
+Headquarters Location: "Seattle, Washington"
+Date added: 2007-10-02
+CIK: 0001324424
+Founded: 1996

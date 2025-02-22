@@ -1,0 +1,8 @@
+Symbol: STZ
+Security: Constellation Brands
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Distillers & Vintners
+Headquarters Location: "Rochester, New York"
+Date added: 2005-07-01
+CIK: 0000016918
+Founded: 1945

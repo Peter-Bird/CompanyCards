@@ -1,0 +1,8 @@
+Symbol: AMT
+Security: American Tower
+GICS Sector: Real Estate
+GICS Sub-Industry: Telecom Tower REITs
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2007-11-19
+CIK: 0001053507
+Founded: 1995

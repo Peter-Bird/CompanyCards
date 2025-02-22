@@ -1,0 +1,8 @@
+Symbol: NUE
+Security: Nucor
+GICS Sector: Materials
+GICS Sub-Industry: Steel
+Headquarters Location: "Charlotte, North Carolina"
+Date added: 1985-04-30
+CIK: 0000073309
+Founded: 1940

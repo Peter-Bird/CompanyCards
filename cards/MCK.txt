@@ -1,0 +1,8 @@
+Symbol: MCK
+Security: McKesson Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Distributors
+Headquarters Location: "Irving, Texas"
+Date added: 1999-01-13
+CIK: 0000927653
+Founded: 1833

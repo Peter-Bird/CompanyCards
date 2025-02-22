@@ -1,0 +1,8 @@
+Symbol: TGT
+Security: Target Corporation
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Consumer Staples Merchandise Retail
+Headquarters Location: "Minneapolis, Minnesota"
+Date added: 1976-12-31
+CIK: 0000027419
+Founded: 1902

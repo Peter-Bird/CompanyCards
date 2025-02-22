@@ -1,0 +1,8 @@
+Symbol: LKQ
+Security: LKQ Corporation
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Distributors
+Headquarters Location: "Chicago, Illinois"
+Date added: 2016-05-23
+CIK: 0001065696
+Founded: 1998

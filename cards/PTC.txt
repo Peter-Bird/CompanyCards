@@ -1,0 +1,8 @@
+Symbol: PTC
+Security: PTC Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2021-04-20
+CIK: 0000857005
+Founded: 1985

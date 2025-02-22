@@ -1,0 +1,8 @@
+Symbol: VRSK
+Security: Verisk Analytics
+GICS Sector: Industrials
+GICS Sub-Industry: Research & Consulting Services
+Headquarters Location: "Jersey City, New Jersey"
+Date added: 2015-10-08
+CIK: 0001442145
+Founded: 1971

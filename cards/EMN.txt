@@ -1,0 +1,8 @@
+Symbol: EMN
+Security: Eastman Chemical Company
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Kingsport, Tennessee"
+Date added: 1994-01-01
+CIK: 0000915389
+Founded: 1920

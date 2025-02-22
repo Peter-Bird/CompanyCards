@@ -1,0 +1,8 @@
+Symbol: CRWD
+Security: CrowdStrike
+GICS Sector: Information Technology
+GICS Sub-Industry: Systems Software
+Headquarters Location: "Austin, Texas"
+Date added: 2024-06-24
+CIK: 0001535527
+Founded: 2011

@@ -1,0 +1,8 @@
+Symbol: DOW
+Security: Dow Inc.
+GICS Sector: Materials
+GICS Sub-Industry: Commodity Chemicals
+Headquarters Location: "Midland, Michigan"
+Date added: 2019-04-01
+CIK: 0001751788
+Founded: 2019 (1897)

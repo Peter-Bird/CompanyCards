@@ -1,0 +1,8 @@
+Symbol: GM
+Security: General Motors
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automobile Manufacturers
+Headquarters Location: "Detroit, Michigan"
+Date added: 2013-06-06
+CIK: 0001467858
+Founded: 1908

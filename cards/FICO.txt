@@ -1,0 +1,8 @@
+Symbol: FICO
+Security: Fair Isaac
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Bozeman, Montana"
+Date added: 2023-03-20
+CIK: 0000814547
+Founded: 1956

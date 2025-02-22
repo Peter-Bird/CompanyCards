@@ -1,0 +1,8 @@
+Symbol: SBUX
+Security: Starbucks
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Seattle, Washington"
+Date added: 2000-06-07
+CIK: 0000829224
+Founded: 1971

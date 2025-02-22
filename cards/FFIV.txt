@@ -1,0 +1,8 @@
+Symbol: FFIV
+Security: F5, Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Communications Equipment
+Headquarters Location: "Seattle, Washington"
+Date added: 2010-12-20
+CIK: 0001048695
+Founded: 1996

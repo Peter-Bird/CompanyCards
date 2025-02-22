@@ -1,0 +1,8 @@
+Symbol: FANG
+Security: Diamondback Energy
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Midland, Texas"
+Date added: 2018-12-03
+CIK: 0001539838
+Founded: 2007

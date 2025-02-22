@@ -1,0 +1,8 @@
+Symbol: DECK
+Security: Deckers Brands
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Footwear
+Headquarters Location: "Goleta, California"
+Date added: 2024-03-18
+CIK: 0000910521
+Founded: 1973

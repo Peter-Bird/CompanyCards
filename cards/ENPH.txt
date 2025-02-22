@@ -1,0 +1,8 @@
+Symbol: ENPH
+Security: Enphase Energy
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductor Materials & Equipment
+Headquarters Location: "Fremont, California"
+Date added: 2021-01-07
+CIK: 0001463101
+Founded: 2006

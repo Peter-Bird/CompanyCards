@@ -1,0 +1,8 @@
+Symbol: ALL
+Security: Allstate
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Northbrook, Illinois"
+Date added: 1995-07-13
+CIK: 0000899051
+Founded: 1931

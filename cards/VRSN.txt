@@ -1,0 +1,8 @@
+Symbol: VRSN
+Security: Verisign
+GICS Sector: Information Technology
+GICS Sub-Industry: Internet Services & Infrastructure
+Headquarters Location: "Dulles, Virginia"
+Date added: 2006-02-01
+CIK: 0001014473
+Founded: 1995

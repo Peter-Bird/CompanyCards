@@ -1,0 +1,8 @@
+Symbol: OTIS
+Security: Otis Worldwide
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Farmington, Connecticut"
+Date added: 2020-04-03
+CIK: 0001781335
+Founded: 2020 (1853, United Technologies spinoff)

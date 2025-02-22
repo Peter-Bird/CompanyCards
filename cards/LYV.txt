@@ -1,0 +1,8 @@
+Symbol: LYV
+Security: Live Nation Entertainment
+GICS Sector: Communication Services
+GICS Sub-Industry: Movies & Entertainment
+Headquarters Location: "Beverly Hills, California"
+Date added: 2019-12-23
+CIK: 0001335258
+Founded: 2010

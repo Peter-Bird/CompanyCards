@@ -1,0 +1,8 @@
+Symbol: FAST
+Security: Fastenal
+GICS Sector: Industrials
+GICS Sub-Industry: Trading Companies & Distributors
+Headquarters Location: "Winona, Minnesota"
+Date added: 2008-09-15
+CIK: 0000815556
+Founded: 1967

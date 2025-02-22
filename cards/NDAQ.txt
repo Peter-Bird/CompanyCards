@@ -1,0 +1,8 @@
+Symbol: NDAQ
+Security: Nasdaq, Inc.
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "New York City, New York"
+Date added: 2008-10-22
+CIK: 0001120193
+Founded: 1971

@@ -1,0 +1,8 @@
+Symbol: NCLH
+Security: Norwegian Cruise Line Holdings
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Hotels, Resorts & Cruise Lines
+Headquarters Location: "Miami, Florida"
+Date added: 2017-10-13
+CIK: 0001513761
+Founded: 2011 (1966)

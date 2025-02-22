@@ -1,0 +1,8 @@
+Symbol: MTCH
+Security: Match Group
+GICS Sector: Communication Services
+GICS Sub-Industry: Interactive Media & Services
+Headquarters Location: "Dallas, Texas"
+Date added: 2021-09-20
+CIK: 0000891103
+Founded: 1986

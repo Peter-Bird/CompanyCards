@@ -1,0 +1,8 @@
+Symbol: ORCL
+Security: Oracle Corporation
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Austin, Texas"
+Date added: 1989-08-31
+CIK: 0001341439
+Founded: 1977

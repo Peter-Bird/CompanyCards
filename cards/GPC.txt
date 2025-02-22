@@ -1,0 +1,8 @@
+Symbol: GPC
+Security: Genuine Parts Company
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Distributors
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1973-12-31
+CIK: 0000040987
+Founded: 1925

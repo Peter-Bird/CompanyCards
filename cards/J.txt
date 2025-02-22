@@ -1,0 +1,8 @@
+Symbol: J
+Security: Jacobs Solutions
+GICS Sector: Industrials
+GICS Sub-Industry: Construction & Engineering
+Headquarters Location: "Dallas, Texas"
+Date added: 2007-10-26
+CIK: 0000052988
+Founded: 1947

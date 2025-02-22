@@ -1,0 +1,8 @@
+Symbol: WY
+Security: Weyerhaeuser
+GICS Sector: Real Estate
+GICS Sub-Industry: Timber REITs
+Headquarters Location: "Seattle, Washington"
+Date added: 1979-10-01
+CIK: 0000106535
+Founded: 1900

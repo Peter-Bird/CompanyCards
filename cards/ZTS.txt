@@ -1,0 +1,8 @@
+Symbol: ZTS
+Security: Zoetis
+GICS Sector: Health Care
+GICS Sub-Industry: Pharmaceuticals
+Headquarters Location: "Parsippany, New Jersey"
+Date added: 2013-06-21
+CIK: 0001555280
+Founded: 1952

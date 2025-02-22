@@ -1,0 +1,8 @@
+Symbol: EBAY
+Security: eBay
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Broadline Retail
+Headquarters Location: "San Jose, California"
+Date added: 2002-07-22
+CIK: 0001065088
+Founded: 1995

@@ -1,0 +1,8 @@
+Symbol: CL
+Security: Colgate-Palmolive
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Household Products
+Headquarters Location: "New York City, New York"
+Date added: 1957-03-04
+CIK: 0000021665
+Founded: 1806

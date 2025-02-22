@@ -1,0 +1,8 @@
+Symbol: MMM
+Security: 3M
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Conglomerates
+Headquarters Location: "Saint Paul, Minnesota"
+Date added: 1957-03-04
+CIK: 0000066740
+Founded: 1902

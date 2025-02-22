@@ -1,0 +1,8 @@
+Symbol: PAYC
+Security: Paycom
+GICS Sector: Industrials
+GICS Sub-Industry: Human Resource & Employment Services
+Headquarters Location: "Oklahoma City, Oklahoma"
+Date added: 2020-01-28
+CIK: 0001590955
+Founded: 1998

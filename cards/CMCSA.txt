@@ -1,0 +1,8 @@
+Symbol: CMCSA
+Security: Comcast
+GICS Sector: Communication Services
+GICS Sub-Industry: Cable & Satellite
+Headquarters Location: "Philadelphia, Pennsylvania"
+Date added: 2002-11-19
+CIK: 0001166691
+Founded: 1963

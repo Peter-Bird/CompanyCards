@@ -1,0 +1,8 @@
+Symbol: AES
+Security: AES Corporation
+GICS Sector: Utilities
+GICS Sub-Industry: Independent Power Producers & Energy Traders
+Headquarters Location: "Arlington, Virginia"
+Date added: 1998-10-02
+CIK: 0000874761
+Founded: 1981

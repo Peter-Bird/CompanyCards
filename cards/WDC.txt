@@ -1,0 +1,8 @@
+Symbol: WDC
+Security: Western Digital
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "San Jose, California"
+Date added: 2009-07-01
+CIK: 0000106040
+Founded: 1970

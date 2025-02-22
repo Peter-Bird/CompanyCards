@@ -1,0 +1,8 @@
+Symbol: DG
+Security: Dollar General
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Consumer Staples Merchandise Retail
+Headquarters Location: "Goodlettsville, Tennessee"
+Date added: 2012-12-03
+CIK: 0000029534
+Founded: 1939

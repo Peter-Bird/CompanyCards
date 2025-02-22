@@ -1,0 +1,8 @@
+Symbol: DHR
+Security: Danaher Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Washington, D.C."
+Date added: 1998-11-18
+CIK: 0000313616
+Founded: 1969

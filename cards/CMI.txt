@@ -1,0 +1,8 @@
+Symbol: CMI
+Security: Cummins
+GICS Sector: Industrials
+GICS Sub-Industry: Construction Machinery & Heavy Transportation Equipment
+Headquarters Location: "Columbus, Indiana"
+Date added: 1965-03-31
+CIK: 0000026172
+Founded: 1919

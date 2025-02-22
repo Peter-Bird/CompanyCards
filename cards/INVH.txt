@@ -1,0 +1,8 @@
+Symbol: INVH
+Security: Invitation Homes
+GICS Sector: Real Estate
+GICS Sub-Industry: Single-Family Residential REITs
+Headquarters Location: "Dallas, Texas"
+Date added: 2022-09-19
+CIK: 0001687229
+Founded: 2012

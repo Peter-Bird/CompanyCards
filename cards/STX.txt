@@ -1,0 +1,8 @@
+Symbol: STX
+Security: Seagate Technology
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "Dublin, Ireland"
+Date added: 2012-07-02
+CIK: 0001137789
+Founded: 1979

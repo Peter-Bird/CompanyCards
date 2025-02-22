@@ -1,0 +1,8 @@
+Symbol: FTV
+Security: Fortive
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Everett, Washington"
+Date added: 2016-07-01
+CIK: 0001659166
+Founded: 2016

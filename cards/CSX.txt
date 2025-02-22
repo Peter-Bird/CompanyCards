@@ -1,0 +1,8 @@
+Symbol: CSX
+Security: CSX Corporation
+GICS Sector: Industrials
+GICS Sub-Industry: Rail Transportation
+Headquarters Location: "Jacksonville, Florida"
+Date added: 1957-03-04
+CIK: 0000277948
+Founded: 1980

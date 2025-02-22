@@ -1,0 +1,8 @@
+Symbol: BXP
+Security: BXP, Inc.
+GICS Sector: Real Estate
+GICS Sub-Industry: Office REITs
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2006-04-03
+CIK: 0001037540
+Founded: 1970

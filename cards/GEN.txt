@@ -1,0 +1,8 @@
+Symbol: GEN
+Security: Gen Digital
+GICS Sector: Information Technology
+GICS Sub-Industry: Systems Software
+Headquarters Location: "Tempe, Arizona"
+Date added: 2003-03-25
+CIK: 0000849399
+Founded: 1982

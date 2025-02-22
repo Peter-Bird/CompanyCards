@@ -1,0 +1,8 @@
+Symbol: FDS
+Security: FactSet
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "Norwalk, Connecticut"
+Date added: 2021-12-20
+CIK: 0001013237
+Founded: 1978

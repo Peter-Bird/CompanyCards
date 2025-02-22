@@ -1,0 +1,8 @@
+Symbol: KMB
+Security: Kimberly-Clark
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Household Products
+Headquarters Location: "Irving, Texas"
+Date added: 1957-03-04
+CIK: 0000055785
+Founded: 1872

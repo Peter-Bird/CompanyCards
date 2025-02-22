@@ -1,0 +1,8 @@
+Symbol: OKE
+Security: ONEOK
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Storage & Transportation
+Headquarters Location: "Tulsa, Oklahoma"
+Date added: 2010-03-15
+CIK: 0001039684
+Founded: 1906

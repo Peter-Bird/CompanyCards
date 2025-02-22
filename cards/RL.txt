@@ -1,0 +1,8 @@
+Symbol: RL
+Security: Ralph Lauren Corporation
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel, Accessories & Luxury Goods
+Headquarters Location: "New York City, New York"
+Date added: 2007-02-02
+CIK: 0001037038
+Founded: 1967

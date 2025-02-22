@@ -1,0 +1,8 @@
+Symbol: DUK
+Security: Duke Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Charlotte, North Carolina"
+Date added: 1976-06-30
+CIK: 0001326160
+Founded: 1904

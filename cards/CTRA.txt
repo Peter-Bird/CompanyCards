@@ -1,0 +1,8 @@
+Symbol: CTRA
+Security: Coterra
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Houston, Texas"
+Date added: 2008-06-23
+CIK: 0000858470
+Founded: 2021 (1989)

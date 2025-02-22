@@ -1,0 +1,8 @@
+Symbol: MAA
+Security: Mid-America Apartment Communities
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "Memphis, Tennessee"
+Date added: 2016-12-02
+CIK: 0000912595
+Founded: 1977

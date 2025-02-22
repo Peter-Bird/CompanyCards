@@ -1,0 +1,8 @@
+Symbol: HII
+Security: Huntington Ingalls Industries
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Newport News, Virginia"
+Date added: 2018-01-03
+CIK: 0001501585
+Founded: 2011

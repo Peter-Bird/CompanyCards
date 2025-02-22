@@ -1,0 +1,8 @@
+Symbol: ODFL
+Security: Old Dominion
+GICS Sector: Industrials
+GICS Sub-Industry: Cargo Ground Transportation
+Headquarters Location: "Thomasville, North Carolina"
+Date added: 2019-12-09
+CIK: 0000878927
+Founded: 1934

@@ -1,0 +1,8 @@
+Symbol: SWK
+Security: Stanley Black & Decker
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "New Britain, Connecticut"
+Date added: 1982-09-30
+CIK: 0000093556
+Founded: 1843

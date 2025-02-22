@@ -1,0 +1,8 @@
+Symbol: TSCO
+Security: Tractor Supply
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Other Specialty Retail
+Headquarters Location: "Brentwood, Tennessee"
+Date added: 2014-01-24
+CIK: 0000916365
+Founded: 1938

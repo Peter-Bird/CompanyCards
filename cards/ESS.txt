@@ -1,0 +1,8 @@
+Symbol: ESS
+Security: Essex Property Trust
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "San Mateo, California"
+Date added: 2014-04-02
+CIK: 0000920522
+Founded: 1971

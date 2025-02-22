@@ -1,0 +1,8 @@
+Symbol: PG
+Security: Procter & Gamble
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Personal Care Products
+Headquarters Location: "Cincinnati, Ohio"
+Date added: 1957-03-04
+CIK: 0000080424
+Founded: 1837

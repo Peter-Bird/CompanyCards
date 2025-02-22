@@ -1,0 +1,8 @@
+Symbol: DIS
+Security: Walt Disney Company (The)
+GICS Sector: Communication Services
+GICS Sub-Industry: Movies & Entertainment
+Headquarters Location: "Burbank, California"
+Date added: 1976-06-30
+CIK: 0001744489
+Founded: 1923

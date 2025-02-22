@@ -1,0 +1,8 @@
+Symbol: LW
+Security: Lamb Weston
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Eagle, Idaho"
+Date added: 2018-12-03
+CIK: 0001679273
+Founded: 2016 (1950)

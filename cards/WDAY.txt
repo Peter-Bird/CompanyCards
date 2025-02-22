@@ -1,0 +1,8 @@
+Symbol: WDAY
+Security: Workday, Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Pleasanton, California"
+Date added: 2024-12-23
+CIK: 0001327811
+Founded: 2005

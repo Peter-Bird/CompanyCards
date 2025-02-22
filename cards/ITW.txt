@@ -1,0 +1,8 @@
+Symbol: ITW
+Security: Illinois Tool Works
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Glenview, Illinois"
+Date added: 1986-02-28
+CIK: 0000049826
+Founded: 1912

@@ -1,0 +1,8 @@
+Symbol: IT
+Security: Gartner
+GICS Sector: Information Technology
+GICS Sub-Industry: IT Consulting & Other Services
+Headquarters Location: "Stamford, Connecticut"
+Date added: 2017-04-05
+CIK: 0000749251
+Founded: 1979

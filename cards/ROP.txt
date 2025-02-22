@@ -1,0 +1,8 @@
+Symbol: ROP
+Security: Roper Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Equipment & Instruments
+Headquarters Location: "Sarasota, Florida"
+Date added: 2009-12-23
+CIK: 0000882835
+Founded: 1981

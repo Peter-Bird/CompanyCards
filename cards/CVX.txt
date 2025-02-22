@@ -1,0 +1,8 @@
+Symbol: CVX
+Security: Chevron Corporation
+GICS Sector: Energy
+GICS Sub-Industry: Integrated Oil & Gas
+Headquarters Location: "San Ramon, California"
+Date added: 1957-03-04
+CIK: 0000093410
+Founded: 1879

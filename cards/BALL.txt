@@ -1,0 +1,8 @@
+Symbol: BALL
+Security: Ball Corporation
+GICS Sector: Materials
+GICS Sub-Industry: Metal, Glass & Plastic Containers
+Headquarters Location: "Broomfield, Colorado"
+Date added: 1984-10-31
+CIK: 0000009389
+Founded: 1880

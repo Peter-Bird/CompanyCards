@@ -1,0 +1,8 @@
+Symbol: RMD
+Security: ResMed
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "San Diego, California"
+Date added: 2017-07-26
+CIK: 0000943819
+Founded: 1989

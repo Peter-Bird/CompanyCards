@@ -1,0 +1,8 @@
+Symbol: STT
+Security: State Street Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2003-03-14
+CIK: 0000093751
+Founded: 1792

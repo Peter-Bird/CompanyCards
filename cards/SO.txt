@@ -1,0 +1,8 @@
+Symbol: SO
+Security: Southern Company
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1957-03-04
+CIK: 0000092122
+Founded: 1945

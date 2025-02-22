@@ -1,0 +1,8 @@
+Symbol: LH
+Security: LabCorp
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Services
+Headquarters Location: "Burlington, North Carolina"
+Date added: 2004-11-01
+CIK: 0000920148
+Founded: 1978

@@ -1,0 +1,8 @@
+Symbol: PM
+Security: Philip Morris International
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Tobacco
+Headquarters Location: "New York City, New York"
+Date added: 2008-03-31
+CIK: 0001413329
+Founded: 2008 (1847)

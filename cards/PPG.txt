@@ -1,0 +1,8 @@
+Symbol: PPG
+Security: PPG Industries
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 1957-03-04
+CIK: 0000079879
+Founded: 1883

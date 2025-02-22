@@ -1,0 +1,8 @@
+Symbol: ARE
+Security: Alexandria Real Estate Equities
+GICS Sector: Real Estate
+GICS Sub-Industry: Office REITs
+Headquarters Location: "Pasadena, California"
+Date added: 2017-03-20
+CIK: 0001035443
+Founded: 1994

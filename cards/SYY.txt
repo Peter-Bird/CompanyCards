@@ -1,0 +1,8 @@
+Symbol: SYY
+Security: Sysco
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Food Distributors
+Headquarters Location: "Houston, Texas"
+Date added: 1986-12-31
+CIK: 0000096021
+Founded: 1969

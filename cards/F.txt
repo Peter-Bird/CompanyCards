@@ -1,0 +1,8 @@
+Symbol: F
+Security: Ford Motor Company
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automobile Manufacturers
+Headquarters Location: "Dearborn, Michigan"
+Date added: 1957-03-04
+CIK: 0000037996
+Founded: 1903

@@ -1,0 +1,8 @@
+Symbol: MTB
+Security: M&T Bank
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Buffalo, New York"
+Date added: 2004-02-23
+CIK: 0000036270
+Founded: 1856

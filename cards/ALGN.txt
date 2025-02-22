@@ -1,0 +1,8 @@
+Symbol: ALGN
+Security: Align Technology
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Supplies
+Headquarters Location: "Tempe, Arizona"
+Date added: 2017-06-19
+CIK: 0001097149
+Founded: 1997

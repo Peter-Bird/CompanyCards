@@ -1,0 +1,8 @@
+Symbol: MKC
+Security: McCormick & Company
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Hunt Valley, Maryland"
+Date added: 2003-03-20
+CIK: 0000063754
+Founded: 1889

@@ -1,0 +1,8 @@
+Symbol: WELL
+Security: Welltower
+GICS Sector: Real Estate
+GICS Sub-Industry: Health Care REITs
+Headquarters Location: "Toledo, Ohio"
+Date added: 2009-01-30
+CIK: 0000766704
+Founded: 1970

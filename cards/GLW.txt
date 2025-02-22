@@ -1,0 +1,8 @@
+Symbol: GLW
+Security: Corning Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Components
+Headquarters Location: "Corning, New York"
+Date added: 1995-02-27
+CIK: 0000024741
+Founded: 1851

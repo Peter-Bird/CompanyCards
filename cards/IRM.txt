@@ -1,0 +1,8 @@
+Symbol: IRM
+Security: Iron Mountain
+GICS Sector: Real Estate
+GICS Sub-Industry: Other Specialized REITs
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2009-01-06
+CIK: 0001020569
+Founded: 1951

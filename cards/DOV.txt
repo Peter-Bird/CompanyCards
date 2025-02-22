@@ -1,0 +1,8 @@
+Symbol: DOV
+Security: Dover Corporation
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Downers Grove, Illinois"
+Date added: 1985-10-31
+CIK: 0000029905
+Founded: 1955

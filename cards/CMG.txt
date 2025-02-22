@@ -1,0 +1,8 @@
+Symbol: CMG
+Security: Chipotle Mexican Grill
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Newport Beach, California"
+Date added: 2011-04-28
+CIK: 0001058090
+Founded: 1993

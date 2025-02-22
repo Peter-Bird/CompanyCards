@@ -1,0 +1,8 @@
+Symbol: CTVA
+Security: Corteva
+GICS Sector: Materials
+GICS Sub-Industry: Fertilizers & Agricultural Chemicals
+Headquarters Location: "Indianapolis, Indiana"
+Date added: 2019-06-03
+CIK: 0001755672
+Founded: 2019

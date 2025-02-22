@@ -1,0 +1,8 @@
+Symbol: ES
+Security: Eversource Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Hartford, Connecticut"
+Date added: 2009-07-24
+CIK: 0000072741
+Founded: 1966

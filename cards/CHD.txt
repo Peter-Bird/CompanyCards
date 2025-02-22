@@ -1,0 +1,8 @@
+Symbol: CHD
+Security: Church & Dwight
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Household Products
+Headquarters Location: "Ewing, New Jersey"
+Date added: 2015-12-29
+CIK: 0000313927
+Founded: 1847

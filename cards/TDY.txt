@@ -1,0 +1,8 @@
+Symbol: TDY
+Security: Teledyne Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Equipment & Instruments
+Headquarters Location: "Thousand Oaks, California"
+Date added: 2020-06-22
+CIK: 0001094285
+Founded: 1960

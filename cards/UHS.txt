@@ -1,0 +1,8 @@
+Symbol: UHS
+Security: Universal Health Services
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Facilities
+Headquarters Location: "King of Prussia, Pennsylvania"
+Date added: 2014-09-20
+CIK: 0000352915
+Founded: 1979

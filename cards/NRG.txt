@@ -1,0 +1,8 @@
+Symbol: NRG
+Security: NRG Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Independent Power Producers & Energy Traders
+Headquarters Location: "Houston, Texas"
+Date added: 2010-01-29
+CIK: 0001013871
+Founded: 1992

@@ -1,0 +1,8 @@
+Symbol: KVUE
+Security: Kenvue
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Personal Care Products
+Headquarters Location: "Skillman, New Jersey"
+Date added: 2023-08-25
+CIK: 0001944048
+Founded: 2022 (Johnson & Johnson spinoff)

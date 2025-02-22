@@ -1,0 +1,8 @@
+Symbol: TPL
+Security: Texas Pacific Land Corporation
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Dallas, Texas"
+Date added: 2024-11-26
+CIK: 0001811074
+Founded: 1888

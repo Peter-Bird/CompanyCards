@@ -1,0 +1,8 @@
+Symbol: COR
+Security: Cencora
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Distributors
+Headquarters Location: "Conshohocken, Pennsylvania"
+Date added: 2001-08-30
+CIK: 0001140859
+Founded: 1985

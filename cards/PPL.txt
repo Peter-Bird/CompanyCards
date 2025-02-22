@@ -1,0 +1,8 @@
+Symbol: PPL
+Security: PPL Corporation
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Allentown, Pennsylvania"
+Date added: 2001-10-01
+CIK: 0000922224
+Founded: 1920

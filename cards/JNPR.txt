@@ -1,0 +1,8 @@
+Symbol: JNPR
+Security: Juniper Networks
+GICS Sector: Information Technology
+GICS Sub-Industry: Communications Equipment
+Headquarters Location: "Sunnyvale, California"
+Date added: 2006-06-02
+CIK: 0001043604
+Founded: 1996

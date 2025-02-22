@@ -1,0 +1,8 @@
+Symbol: CPRT
+Security: Copart
+GICS Sector: Industrials
+GICS Sub-Industry: Diversified Support Services
+Headquarters Location: "Dallas, Texas"
+Date added: 2018-07-02
+CIK: 0000900075
+Founded: 1982

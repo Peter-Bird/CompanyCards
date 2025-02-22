@@ -1,0 +1,8 @@
+Symbol: CLX
+Security: Clorox
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Household Products
+Headquarters Location: "Oakland, California"
+Date added: 1969-03-31
+CIK: 0000021076
+Founded: 1913

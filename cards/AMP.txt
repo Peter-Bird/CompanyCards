@@ -1,0 +1,8 @@
+Symbol: AMP
+Security: Ameriprise Financial
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "Minneapolis, Minnesota"
+Date added: 2005-10-03
+CIK: 0000820027
+Founded: 1894

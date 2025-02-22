@@ -1,0 +1,8 @@
+Symbol: WMT
+Security: Walmart
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Consumer Staples Merchandise Retail
+Headquarters Location: "Bentonville, Arkansas"
+Date added: 1982-08-31
+CIK: 0000104169
+Founded: 1962

@@ -1,0 +1,8 @@
+Symbol: WRB
+Security: W. R. Berkley Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Greenwich, Connecticut"
+Date added: 2019-12-05
+CIK: 0000011544
+Founded: 1967

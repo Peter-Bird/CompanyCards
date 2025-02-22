@@ -1,0 +1,8 @@
+Symbol: DLTR
+Security: Dollar Tree
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Consumer Staples Merchandise Retail
+Headquarters Location: "Chesapeake, Virginia"
+Date added: 2011-12-19
+CIK: 0000935703
+Founded: 1986

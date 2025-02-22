@@ -1,0 +1,8 @@
+Symbol: IP
+Security: International Paper
+GICS Sector: Materials
+GICS Sub-Industry: Paper & Plastic Packaging Products & Materials
+Headquarters Location: "Memphis, Tennessee"
+Date added: 1957-03-04
+CIK: 0000051434
+Founded: 1898

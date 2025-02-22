@@ -1,0 +1,8 @@
+Symbol: ALB
+Security: Albemarle Corporation
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Charlotte, North Carolina"
+Date added: 2016-07-01
+CIK: 0000915913
+Founded: 1994

@@ -1,0 +1,8 @@
+Symbol: MCHP
+Security: Microchip Technology
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Chandler, Arizona"
+Date added: 2007-09-07
+CIK: 0000827054
+Founded: 1989

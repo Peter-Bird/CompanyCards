@@ -1,0 +1,8 @@
+Symbol: CNC
+Security: Centene Corporation
+GICS Sector: Health Care
+GICS Sub-Industry: Managed Health Care
+Headquarters Location: "St. Louis, Missouri"
+Date added: 2016-03-30
+CIK: 0001071739
+Founded: 1984

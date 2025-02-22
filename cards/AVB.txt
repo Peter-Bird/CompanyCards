@@ -1,0 +1,8 @@
+Symbol: AVB
+Security: AvalonBay Communities
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "Arlington, Virginia"
+Date added: 2007-01-10
+CIK: 0000915912
+Founded: 1978

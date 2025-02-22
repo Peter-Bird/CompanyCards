@@ -1,0 +1,8 @@
+Symbol: PCG
+Security: PG&E Corporation
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Oakland, California"
+Date added: 2022-10-03
+CIK: 0001004980
+Founded: 1905

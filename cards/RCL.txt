@@ -1,0 +1,8 @@
+Symbol: RCL
+Security: Royal Caribbean Group
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Hotels, Resorts & Cruise Lines
+Headquarters Location: "Miami, Florida"
+Date added: 2014-12-05
+CIK: 0000884887
+Founded: 1997

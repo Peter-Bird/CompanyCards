@@ -1,0 +1,8 @@
+Symbol: ADI
+Security: Analog Devices
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Wilmington, Massachusetts"
+Date added: 1999-10-12
+CIK: 0000006281
+Founded: 1965

@@ -1,0 +1,8 @@
+Symbol: CME
+Security: CME Group
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "Chicago, Illinois"
+Date added: 2006-08-11
+CIK: 0001156375
+Founded: 1848

@@ -1,0 +1,8 @@
+Symbol: PLD
+Security: Prologis
+GICS Sector: Real Estate
+GICS Sub-Industry: Industrial REITs
+Headquarters Location: "San Francisco, California"
+Date added: 2003-07-17
+CIK: 0001045609
+Founded: 1983

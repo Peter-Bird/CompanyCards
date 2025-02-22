@@ -1,0 +1,8 @@
+Symbol: PHM
+Security: PulteGroup
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Homebuilding
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1984-04-30
+CIK: 0000822416
+Founded: 1956

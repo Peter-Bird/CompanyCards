@@ -1,0 +1,8 @@
+Symbol: BX
+Security: Blackstone Inc.
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "New York City, New York"
+Date added: 2023-09-18
+CIK: 0001393818
+Founded: 1985

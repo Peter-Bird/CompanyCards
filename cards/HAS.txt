@@ -1,0 +1,8 @@
+Symbol: HAS
+Security: Hasbro
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Leisure Products
+Headquarters Location: "Pawtucket, Rhode Island"
+Date added: 1984-09-30
+CIK: 0000046080
+Founded: 1923

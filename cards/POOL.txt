@@ -1,0 +1,8 @@
+Symbol: POOL
+Security: Pool Corporation
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Distributors
+Headquarters Location: "Covington, Louisiana"
+Date added: 2020-10-07
+CIK: 0000945841
+Founded: 1993

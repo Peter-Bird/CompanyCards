@@ -1,0 +1,8 @@
+Symbol: AVY
+Security: Avery Dennison
+GICS Sector: Materials
+GICS Sub-Industry: Paper & Plastic Packaging Products & Materials
+Headquarters Location: "Mentor, Ohio"
+Date added: 1987-12-31
+CIK: 0000008818
+Founded: 1935

@@ -1,0 +1,8 @@
+Symbol: AXP
+Security: American Express
+GICS Sector: Financials
+GICS Sub-Industry: Consumer Finance
+Headquarters Location: "New York City, New York"
+Date added: 1976-06-30
+CIK: 0000004962
+Founded: 1850

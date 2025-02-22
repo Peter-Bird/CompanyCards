@@ -1,0 +1,8 @@
+Symbol: DELL
+Security: Dell Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "Round Rock, Texas"
+Date added: 2024-09-23
+CIK: 0001571996
+Founded: 2016

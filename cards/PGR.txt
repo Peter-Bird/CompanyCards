@@ -1,0 +1,8 @@
+Symbol: PGR
+Security: Progressive Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Mayfield Village, Ohio"
+Date added: 1997-08-04
+CIK: 0000080661
+Founded: 1937

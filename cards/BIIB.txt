@@ -1,0 +1,8 @@
+Symbol: BIIB
+Security: Biogen
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Cambridge, Massachusetts"
+Date added: 2003-11-13
+CIK: 0000875045
+Founded: 1978

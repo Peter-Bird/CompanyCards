@@ -1,0 +1,8 @@
+Symbol: TRV
+Security: Travelers Companies (The)
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "New York City, New York"
+Date added: 2002-08-21
+CIK: 0000086312
+Founded: 1853

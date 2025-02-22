@@ -1,0 +1,8 @@
+Symbol: WST
+Security: West Pharmaceutical Services
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Supplies
+Headquarters Location: "Exton, Pennsylvania"
+Date added: 2020-05-22
+CIK: 0000105770
+Founded: 1923

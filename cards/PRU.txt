@@ -1,0 +1,8 @@
+Symbol: PRU
+Security: Prudential Financial
+GICS Sector: Financials
+GICS Sub-Industry: Life & Health Insurance
+Headquarters Location: "Newark, New Jersey"
+Date added: 2002-07-22
+CIK: 0001137774
+Founded: 1875

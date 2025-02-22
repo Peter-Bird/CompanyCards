@@ -1,0 +1,8 @@
+Symbol: DXCM
+Security: Dexcom
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "San Diego, California"
+Date added: 2020-05-12
+CIK: 0001093557
+Founded: 1999

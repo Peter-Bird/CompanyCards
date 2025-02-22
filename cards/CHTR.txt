@@ -1,0 +1,8 @@
+Symbol: CHTR
+Security: Charter Communications
+GICS Sector: Communication Services
+GICS Sub-Industry: Cable & Satellite
+Headquarters Location: "Stamford, Connecticut"
+Date added: 2016-09-08
+CIK: 0001091667
+Founded: 1993

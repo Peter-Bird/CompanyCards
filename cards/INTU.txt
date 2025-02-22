@@ -1,0 +1,8 @@
+Symbol: INTU
+Security: Intuit
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Mountain View, California"
+Date added: 2000-12-05
+CIK: 0000896878
+Founded: 1983

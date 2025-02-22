@@ -1,0 +1,8 @@
+Symbol: CAG
+Security: Conagra Brands
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Chicago, Illinois"
+Date added: 1983-08-31
+CIK: 0000023217
+Founded: 1919

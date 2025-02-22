@@ -1,0 +1,8 @@
+Symbol: KMI
+Security: Kinder Morgan
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Storage & Transportation
+Headquarters Location: "Houston, Texas"
+Date added: 2012-05-25
+CIK: 0001506307
+Founded: 1997

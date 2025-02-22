@@ -1,0 +1,8 @@
+Symbol: NOC
+Security: Northrop Grumman
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "West Falls Church, Virginia"
+Date added: 1957-03-04
+CIK: 0001133421
+Founded: 1994 (Northrop 1939, Grumman 1930)

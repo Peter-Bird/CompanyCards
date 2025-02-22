@@ -1,0 +1,8 @@
+Symbol: T
+Security: AT&T
+GICS Sector: Communication Services
+GICS Sub-Industry: Integrated Telecommunication Services
+Headquarters Location: "Dallas, Texas"
+Date added: 1983-11-30
+CIK: 0000732717
+Founded: 1983 (1885)

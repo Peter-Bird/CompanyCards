@@ -1,0 +1,8 @@
+Symbol: UPS
+Security: United Parcel Service
+GICS Sector: Industrials
+GICS Sub-Industry: Air Freight & Logistics
+Headquarters Location: "Sandy Springs, Georgia"
+Date added: 2002-07-22
+CIK: 0001090727
+Founded: 1907

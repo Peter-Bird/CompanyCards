@@ -1,0 +1,8 @@
+Symbol: FE
+Security: FirstEnergy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Akron, Ohio"
+Date added: 1997-11-28
+CIK: 0001031296
+Founded: 1997

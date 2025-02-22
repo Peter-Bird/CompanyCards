@@ -1,0 +1,8 @@
+Symbol: APD
+Security: Air Products
+GICS Sector: Materials
+GICS Sub-Industry: Industrial Gases
+Headquarters Location: "Upper Macungie Township, Pennsylvania"
+Date added: 1985-04-30
+CIK: 0000002969
+Founded: 1940

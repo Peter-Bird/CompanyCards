@@ -1,0 +1,8 @@
+Symbol: CI
+Security: Cigna
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Services
+Headquarters Location: "Bloomfield, Connecticut"
+Date added: 1976-06-30
+CIK: 0001739940
+Founded: 1982

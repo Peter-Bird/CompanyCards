@@ -1,0 +1,8 @@
+Symbol: KDP
+Security: Keurig Dr Pepper
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Soft Drinks & Non-alcoholic Beverages
+Headquarters Location: "Burlington, Massachusetts"
+Date added: 2022-06-21
+CIK: 0001418135
+Founded: 1981

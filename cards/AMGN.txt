@@ -1,0 +1,8 @@
+Symbol: AMGN
+Security: Amgen
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Thousand Oaks, California"
+Date added: 1992-01-02
+CIK: 0000318154
+Founded: 1980

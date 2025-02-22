@@ -1,0 +1,8 @@
+Symbol: O
+Security: Realty Income
+GICS Sector: Real Estate
+GICS Sub-Industry: Retail REITs
+Headquarters Location: "San Diego, California"
+Date added: 2015-04-07
+CIK: 0000726728
+Founded: 1969

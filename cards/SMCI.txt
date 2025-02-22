@@ -1,0 +1,8 @@
+Symbol: SMCI
+Security: Supermicro
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "San Jose, California"
+Date added: 2024-03-18
+CIK: 0001375365
+Founded: 1993

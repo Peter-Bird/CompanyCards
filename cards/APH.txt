@@ -1,0 +1,8 @@
+Symbol: APH
+Security: Amphenol
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Components
+Headquarters Location: "Wallingford, Connecticut"
+Date added: 2008-09-30
+CIK: 0000820313
+Founded: 1932

@@ -1,0 +1,8 @@
+Symbol: EIX
+Security: Edison International
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Rosemead, California"
+Date added: 1957-03-04
+CIK: 0000827052
+Founded: 1886

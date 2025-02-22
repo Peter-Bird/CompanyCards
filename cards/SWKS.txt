@@ -1,0 +1,8 @@
+Symbol: SWKS
+Security: Skyworks Solutions
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Irvine, California"
+Date added: 2015-03-12
+CIK: 0000004127
+Founded: 2002

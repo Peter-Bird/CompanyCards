@@ -1,0 +1,8 @@
+Symbol: MDT
+Security: Medtronic
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Dublin, Ireland"
+Date added: 1986-10-31
+CIK: 0001613103
+Founded: 1949

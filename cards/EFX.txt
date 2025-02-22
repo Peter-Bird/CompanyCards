@@ -1,0 +1,8 @@
+Symbol: EFX
+Security: Equifax
+GICS Sector: Industrials
+GICS Sub-Industry: Research & Consulting Services
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1997-06-19
+CIK: 0000033185
+Founded: 1899

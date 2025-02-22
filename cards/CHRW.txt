@@ -1,0 +1,8 @@
+Symbol: CHRW
+Security: C.H. Robinson
+GICS Sector: Industrials
+GICS Sub-Industry: Air Freight & Logistics
+Headquarters Location: "Eden Prairie, Minnesota"
+Date added: 2007-03-02
+CIK: 0001043277
+Founded: 1905

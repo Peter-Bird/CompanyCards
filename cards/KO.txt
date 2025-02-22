@@ -1,0 +1,8 @@
+Symbol: KO
+Security: Coca-Cola Company (The)
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Soft Drinks & Non-alcoholic Beverages
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1957-03-04
+CIK: 0000021344
+Founded: 1886

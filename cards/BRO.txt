@@ -1,0 +1,8 @@
+Symbol: BRO
+Security: Brown & Brown
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "Daytona Beach, Florida"
+Date added: 2021-09-20
+CIK: 0000079282
+Founded: 1939

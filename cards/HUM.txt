@@ -1,0 +1,8 @@
+Symbol: HUM
+Security: Humana
+GICS Sector: Health Care
+GICS Sub-Industry: Managed Health Care
+Headquarters Location: "Louisville, Kentucky"
+Date added: 2012-12-10
+CIK: 0000049071
+Founded: 1961

@@ -1,0 +1,8 @@
+Symbol: PSX
+Security: Phillips 66
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Refining & Marketing
+Headquarters Location: "Houston, Texas"
+Date added: 2012-05-01
+CIK: 0001534701
+Founded: 2012 (1917)

@@ -1,0 +1,8 @@
+Symbol: CBRE
+Security: CBRE Group
+GICS Sector: Real Estate
+GICS Sub-Industry: Real Estate Services
+Headquarters Location: "Dallas, Texas"
+Date added: 2006-11-10
+CIK: 0001138118
+Founded: 1906

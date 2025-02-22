@@ -1,0 +1,8 @@
+Symbol: AKAM
+Security: Akamai Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Internet Services & Infrastructure
+Headquarters Location: "Cambridge, Massachusetts"
+Date added: 2007-07-12
+CIK: 0001086222
+Founded: 1998

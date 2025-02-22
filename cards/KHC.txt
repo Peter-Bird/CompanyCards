@@ -1,0 +1,8 @@
+Symbol: KHC
+Security: Kraft Heinz
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Chicago, Illinois; Pittsburgh, Pennsylvania"
+Date added: 2015-07-06
+CIK: 0001637459
+Founded: 2015 (1869)

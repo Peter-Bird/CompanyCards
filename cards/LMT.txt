@@ -1,0 +1,8 @@
+Symbol: LMT
+Security: Lockheed Martin
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Bethesda, Maryland"
+Date added: 1957-03-04
+CIK: 0000936468
+Founded: 1995

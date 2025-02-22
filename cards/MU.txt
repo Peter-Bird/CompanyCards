@@ -1,0 +1,8 @@
+Symbol: MU
+Security: Micron Technology
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Boise, Idaho"
+Date added: 1994-09-27
+CIK: 0000723125
+Founded: 1978

@@ -1,0 +1,8 @@
+Symbol: FIS
+Security: Fidelity National Information Services
+GICS Sector: Financials
+GICS Sub-Industry: Transaction & Payment Processing Services
+Headquarters Location: "Jacksonville, Florida"
+Date added: 2006-11-10
+CIK: 0001136893
+Founded: 1968

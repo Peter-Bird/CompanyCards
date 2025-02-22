@@ -1,0 +1,8 @@
+Symbol: COO
+Security: Cooper Companies (The)
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Supplies
+Headquarters Location: "San Ramon, California"
+Date added: 2016-09-23
+CIK: 0000711404
+Founded: 1958

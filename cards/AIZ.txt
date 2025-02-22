@@ -1,0 +1,8 @@
+Symbol: AIZ
+Security: Assurant
+GICS Sector: Financials
+GICS Sub-Industry: Multi-line Insurance
+Headquarters Location: "Atlanta, Georgia"
+Date added: 2007-04-10
+CIK: 0001267238
+Founded: 1892

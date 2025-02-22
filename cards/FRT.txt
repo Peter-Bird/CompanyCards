@@ -1,0 +1,8 @@
+Symbol: FRT
+Security: Federal Realty Investment Trust
+GICS Sector: Real Estate
+GICS Sub-Industry: Retail REITs
+Headquarters Location: "Rockville, Maryland"
+Date added: 2016-02-01
+CIK: 0000034903
+Founded: 1962

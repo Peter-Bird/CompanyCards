@@ -1,0 +1,8 @@
+Symbol: TROW
+Security: T. Rowe Price
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "Baltimore, Maryland"
+Date added: 2019-07-29
+CIK: 0001113169
+Founded: 1937

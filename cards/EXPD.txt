@@ -1,0 +1,8 @@
+Symbol: EXPD
+Security: Expeditors International
+GICS Sector: Industrials
+GICS Sub-Industry: Air Freight & Logistics
+Headquarters Location: "Seattle, Washington"
+Date added: 2007-10-10
+CIK: 0000746515
+Founded: 1979

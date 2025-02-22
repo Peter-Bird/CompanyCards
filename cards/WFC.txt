@@ -1,0 +1,8 @@
+Symbol: WFC
+Security: Wells Fargo
+GICS Sector: Financials
+GICS Sub-Industry: Diversified Banks
+Headquarters Location: "San Francisco, California"
+Date added: 1976-06-30
+CIK: 0000072971
+Founded: 1852

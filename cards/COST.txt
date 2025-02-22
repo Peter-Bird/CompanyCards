@@ -1,0 +1,8 @@
+Symbol: COST
+Security: Costco
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Consumer Staples Merchandise Retail
+Headquarters Location: "Issaquah, Washington"
+Date added: 1993-10-01
+CIK: 0000909832
+Founded: 1976

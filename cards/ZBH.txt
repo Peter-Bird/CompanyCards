@@ -1,0 +1,8 @@
+Symbol: ZBH
+Security: Zimmer Biomet
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Warsaw, Indiana"
+Date added: 2001-08-07
+CIK: 0001136869
+Founded: 1927

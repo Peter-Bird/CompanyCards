@@ -1,0 +1,8 @@
+Symbol: AOS
+Security: A. O. Smith
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Milwaukee, Wisconsin"
+Date added: 2017-07-26
+CIK: 0000091142
+Founded: 1916

@@ -1,0 +1,8 @@
+Symbol: AAPL
+Security: Apple Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "Cupertino, California"
+Date added: 1982-11-30
+CIK: 0000320193
+Founded: 1977

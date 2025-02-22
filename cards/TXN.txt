@@ -1,0 +1,8 @@
+Symbol: TXN
+Security: Texas Instruments
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Dallas, Texas"
+Date added: 2001-03-12
+CIK: 0000097476
+Founded: 1930

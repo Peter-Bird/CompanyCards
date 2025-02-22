@@ -1,0 +1,8 @@
+Symbol: FDX
+Security: FedEx
+GICS Sector: Industrials
+GICS Sub-Industry: Air Freight & Logistics
+Headquarters Location: "Memphis, Tennessee"
+Date added: 1980-12-31
+CIK: 0001048911
+Founded: 1971

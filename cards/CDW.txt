@@ -1,0 +1,8 @@
+Symbol: CDW
+Security: CDW
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Distributors
+Headquarters Location: "Vernon Hills, Illinois"
+Date added: 2019-09-23
+CIK: 0001402057
+Founded: 1984

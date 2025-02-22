@@ -1,0 +1,8 @@
+Symbol: DPZ
+Security: Domino's
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Ann Arbor, Michigan"
+Date added: 2020-05-12
+CIK: 0001286681
+Founded: 1960

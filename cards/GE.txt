@@ -1,0 +1,8 @@
+Symbol: GE
+Security: GE Aerospace
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Evendale, Ohio"
+Date added: 1957-03-04
+CIK: 0000040545
+Founded: 1892

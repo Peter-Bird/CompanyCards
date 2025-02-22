@@ -1,0 +1,8 @@
+Symbol: BA
+Security: Boeing
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Arlington, Virginia"
+Date added: 1957-03-04
+CIK: 0000012927
+Founded: 1916

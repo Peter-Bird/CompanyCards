@@ -1,0 +1,8 @@
+Symbol: DOC
+Security: Healthpeak Properties
+GICS Sector: Real Estate
+GICS Sub-Industry: Health Care REITs
+Headquarters Location: "Denver, Colorado"
+Date added: 2008-03-31
+CIK: 0000765880
+Founded: 1985

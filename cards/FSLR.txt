@@ -1,0 +1,8 @@
+Symbol: FSLR
+Security: First Solar
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Tempe, Arizona"
+Date added: 2022-12-19
+CIK: 0001274494
+Founded: 1999

@@ -1,0 +1,8 @@
+Symbol: QCOM
+Security: Qualcomm
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "San Diego, California"
+Date added: 1999-07-22
+CIK: 0000804328
+Founded: 1985

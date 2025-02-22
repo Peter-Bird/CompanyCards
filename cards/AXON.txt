@@ -1,0 +1,8 @@
+Symbol: AXON
+Security: Axon Enterprise
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Scottsdale, Arizona"
+Date added: 2023-05-04
+CIK: 0001069183
+Founded: 1993

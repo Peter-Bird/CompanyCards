@@ -1,0 +1,8 @@
+Symbol: ABT
+Security: Abbott Laboratories
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "North Chicago, Illinois"
+Date added: 1957-03-04
+CIK: 0000001800
+Founded: 1888

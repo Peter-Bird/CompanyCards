@@ -1,0 +1,8 @@
+Symbol: MET
+Security: MetLife
+GICS Sector: Financials
+GICS Sub-Industry: Life & Health Insurance
+Headquarters Location: "New York City, New York"
+Date added: 2000-12-11
+CIK: 0001099219
+Founded: 1868

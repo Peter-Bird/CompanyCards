@@ -1,0 +1,8 @@
+Symbol: MSCI
+Security: MSCI
+GICS Sector: Financials
+GICS Sub-Industry: Financial Exchanges & Data
+Headquarters Location: "New York City, New York"
+Date added: 2018-04-04
+CIK: 0001408198
+Founded: 1969

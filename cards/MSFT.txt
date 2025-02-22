@@ -1,0 +1,8 @@
+Symbol: MSFT
+Security: Microsoft
+GICS Sector: Information Technology
+GICS Sub-Industry: Systems Software
+Headquarters Location: "Redmond, Washington"
+Date added: 1994-06-01
+CIK: 0000789019
+Founded: 1975

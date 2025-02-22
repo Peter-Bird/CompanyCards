@@ -1,0 +1,8 @@
+Symbol: GWW
+Security: W. W. Grainger
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Lake Forest, Illinois"
+Date added: 1981-06-30
+CIK: 0000277135
+Founded: 1927

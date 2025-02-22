@@ -1,0 +1,8 @@
+Symbol: INTC
+Security: Intel
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Santa Clara, California"
+Date added: 1976-12-31
+CIK: 0000050863
+Founded: 1968

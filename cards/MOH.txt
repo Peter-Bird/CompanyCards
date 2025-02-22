@@ -1,0 +1,8 @@
+Symbol: MOH
+Security: Molina Healthcare
+GICS Sector: Health Care
+GICS Sub-Industry: Managed Health Care
+Headquarters Location: "Long Beach, California"
+Date added: 2022-03-02
+CIK: 0001179929
+Founded: 1980

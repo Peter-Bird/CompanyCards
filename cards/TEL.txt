@@ -1,0 +1,8 @@
+Symbol: TEL
+Security: TE Connectivity
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Manufacturing Services
+Headquarters Location: "Galway, Ireland"
+Date added: 2011-10-17
+CIK: 0001385157
+Founded: 2007

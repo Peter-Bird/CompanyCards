@@ -1,0 +1,8 @@
+Symbol: EMR
+Security: Emerson Electric
+GICS Sector: Industrials
+GICS Sub-Industry: Electrical Components & Equipment
+Headquarters Location: "Ferguson, Missouri"
+Date added: 1965-03-31
+CIK: 0000032604
+Founded: 1890

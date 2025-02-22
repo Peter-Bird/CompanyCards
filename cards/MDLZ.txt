@@ -1,0 +1,8 @@
+Symbol: MDLZ
+Security: Mondelez International
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Chicago, Illinois"
+Date added: 2012-10-02
+CIK: 0001103982
+Founded: 2012

@@ -1,0 +1,8 @@
+Symbol: VTRS
+Security: Viatris
+GICS Sector: Health Care
+GICS Sub-Industry: Pharmaceuticals
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 2004-04-23
+CIK: 0001792044
+Founded: 1961

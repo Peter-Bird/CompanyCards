@@ -1,0 +1,8 @@
+Symbol: CSGP
+Security: CoStar Group
+GICS Sector: Real Estate
+GICS Sub-Industry: Real Estate Services
+Headquarters Location: "Washington, D.C."
+Date added: 2022-09-19
+CIK: 0001057352
+Founded: 1987

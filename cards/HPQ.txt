@@ -1,0 +1,8 @@
+Symbol: HPQ
+Security: HP Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "Palo Alto, California"
+Date added: 1974-12-31
+CIK: 0000047217
+Founded: 1939 (2015)

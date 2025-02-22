@@ -1,0 +1,8 @@
+Symbol: META
+Security: Meta Platforms
+GICS Sector: Communication Services
+GICS Sub-Industry: Interactive Media & Services
+Headquarters Location: "Menlo Park, California"
+Date added: 2013-12-23
+CIK: 0001326801
+Founded: 2004

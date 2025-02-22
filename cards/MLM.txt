@@ -1,0 +1,8 @@
+Symbol: MLM
+Security: Martin Marietta Materials
+GICS Sector: Materials
+GICS Sub-Industry: Construction Materials
+Headquarters Location: "Raleigh, North Carolina"
+Date added: 2014-07-02
+CIK: 0000916076
+Founded: 1993

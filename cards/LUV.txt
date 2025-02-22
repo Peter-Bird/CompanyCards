@@ -1,0 +1,8 @@
+Symbol: LUV
+Security: Southwest Airlines
+GICS Sector: Industrials
+GICS Sub-Industry: Passenger Airlines
+Headquarters Location: "Dallas, Texas"
+Date added: 1994-07-01
+CIK: 0000092380
+Founded: 1967

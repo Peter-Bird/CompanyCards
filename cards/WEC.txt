@@ -1,0 +1,8 @@
+Symbol: WEC
+Security: WEC Energy Group
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Milwaukee, Wisconsin"
+Date added: 2008-10-31
+CIK: 0000783325
+Founded: 1896

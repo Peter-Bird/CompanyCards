@@ -1,0 +1,8 @@
+Symbol: YUM
+Security: Yum! Brands
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Louisville, Kentucky"
+Date added: 1997-10-06
+CIK: 0001041061
+Founded: 1997

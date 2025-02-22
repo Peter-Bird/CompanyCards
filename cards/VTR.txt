@@ -1,0 +1,8 @@
+Symbol: VTR
+Security: Ventas
+GICS Sector: Real Estate
+GICS Sub-Industry: Health Care REITs
+Headquarters Location: "Chicago, Illinois"
+Date added: 2009-03-04
+CIK: 0000740260
+Founded: 1998

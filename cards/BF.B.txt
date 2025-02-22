@@ -1,0 +1,8 @@
+Symbol: BF.B
+Security: Brown–Forman
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Distillers & Vintners
+Headquarters Location: "Louisville, Kentucky"
+Date added: 1982-10-31
+CIK: 0000014693
+Founded: 1870

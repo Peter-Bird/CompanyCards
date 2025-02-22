@@ -1,0 +1,8 @@
+Symbol: PLTR
+Security: Palantir Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Internet Services & Infrastructure
+Headquarters Location: "Denver, Colorado"
+Date added: 2024-09-23
+CIK: 0001321655
+Founded: 2003

@@ -1,0 +1,8 @@
+Symbol: RTX
+Security: RTX Corporation
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Waltham, Massachusetts"
+Date added: 1957-03-04
+CIK: 0000101829
+Founded: 1922

@@ -1,0 +1,8 @@
+Symbol: PSA
+Security: Public Storage
+GICS Sector: Real Estate
+GICS Sub-Industry: Self-Storage REITs
+Headquarters Location: "Glendale, California"
+Date added: 2005-08-19
+CIK: 0001393311
+Founded: 1972

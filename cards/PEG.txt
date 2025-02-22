@@ -1,0 +1,8 @@
+Symbol: PEG
+Security: Public Service Enterprise Group
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Newark, New Jersey"
+Date added: 1957-03-04
+CIK: 0000788784
+Founded: 1903

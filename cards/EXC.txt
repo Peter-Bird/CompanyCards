@@ -1,0 +1,8 @@
+Symbol: EXC
+Security: Exelon
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Chicago, Illinois"
+Date added: 1957-03-04
+CIK: 0001109357
+Founded: 2000

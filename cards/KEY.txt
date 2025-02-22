@@ -1,0 +1,8 @@
+Symbol: KEY
+Security: KeyCorp
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Cleveland, Ohio"
+Date added: 1994-03-01
+CIK: 0000091576
+Founded: 1825

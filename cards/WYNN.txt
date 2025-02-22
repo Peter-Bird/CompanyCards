@@ -1,0 +1,8 @@
+Symbol: WYNN
+Security: Wynn Resorts
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Casinos & Gaming
+Headquarters Location: "Paradise, Nevada"
+Date added: 2008-11-14
+CIK: 0001174922
+Founded: 2002

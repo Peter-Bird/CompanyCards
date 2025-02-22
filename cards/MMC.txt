@@ -1,0 +1,8 @@
+Symbol: MMC
+Security: Marsh McLennan
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "New York City, New York"
+Date added: 1987-08-31
+CIK: 0000062709
+Founded: 1905

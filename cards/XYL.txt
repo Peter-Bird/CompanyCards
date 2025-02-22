@@ -1,0 +1,8 @@
+Symbol: XYL
+Security: Xylem Inc.
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "White Plains, New York"
+Date added: 2011-11-01
+CIK: 0001524472
+Founded: 2011

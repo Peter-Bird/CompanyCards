@@ -1,0 +1,8 @@
+Symbol: MSI
+Security: Motorola Solutions
+GICS Sector: Information Technology
+GICS Sub-Industry: Communications Equipment
+Headquarters Location: "Chicago, Illinois"
+Date added: 1957-03-04
+CIK: 0000068505
+Founded: 1928 (2011)

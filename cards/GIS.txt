@@ -1,0 +1,8 @@
+Symbol: GIS
+Security: General Mills
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Golden Valley, Minnesota"
+Date added: 1957-03-04
+CIK: 0000040704
+Founded: 1856

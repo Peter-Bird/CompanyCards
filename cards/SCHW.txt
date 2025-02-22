@@ -1,0 +1,8 @@
+Symbol: SCHW
+Security: Charles Schwab Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Investment Banking & Brokerage
+Headquarters Location: "Westlake, Texas"
+Date added: 1997-06-02
+CIK: 0000316709
+Founded: 1971

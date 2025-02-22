@@ -1,0 +1,8 @@
+Symbol: ADSK
+Security: Autodesk
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "San Francisco, California"
+Date added: 1989-12-01
+CIK: 0000769397
+Founded: 1982

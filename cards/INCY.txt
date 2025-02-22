@@ -1,0 +1,8 @@
+Symbol: INCY
+Security: Incyte
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Wilmington, Delaware"
+Date added: 2017-02-28
+CIK: 0000879169
+Founded: 1991

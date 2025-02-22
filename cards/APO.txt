@@ -1,0 +1,8 @@
+Symbol: APO
+Security: Apollo Global Management
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "New York City, New York"
+Date added: 2024-12-23
+CIK: 0001858681
+Founded: 1990

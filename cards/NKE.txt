@@ -1,0 +1,8 @@
+Symbol: NKE
+Security: Nike, Inc.
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel, Accessories & Luxury Goods
+Headquarters Location: "Washington County, Oregon"
+Date added: 1988-11-30
+CIK: 0000320187
+Founded: 1964

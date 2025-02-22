@@ -1,0 +1,8 @@
+Symbol: SYF
+Security: Synchrony Financial
+GICS Sector: Financials
+GICS Sub-Industry: Consumer Finance
+Headquarters Location: "Stamford, Connecticut"
+Date added: 2015-11-18
+CIK: 0001601712
+Founded: 2003

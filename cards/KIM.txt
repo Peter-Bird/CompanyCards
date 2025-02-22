@@ -1,0 +1,8 @@
+Symbol: KIM
+Security: Kimco Realty
+GICS Sector: Real Estate
+GICS Sub-Industry: Retail REITs
+Headquarters Location: "Jericho, New York"
+Date added: 2006-04-04
+CIK: 0000879101
+Founded: 1958

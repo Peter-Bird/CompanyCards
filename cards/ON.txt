@@ -1,0 +1,8 @@
+Symbol: ON
+Security: ON Semiconductor
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductors
+Headquarters Location: "Phoenix, Arizona"
+Date added: 2022-06-21
+CIK: 0001097864
+Founded: 1999

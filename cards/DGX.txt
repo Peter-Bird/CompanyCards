@@ -1,0 +1,8 @@
+Symbol: DGX
+Security: Quest Diagnostics
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Services
+Headquarters Location: "Secaucus, New Jersey"
+Date added: 2002-12-12
+CIK: 0001022079
+Founded: 1967

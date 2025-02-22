@@ -1,0 +1,8 @@
+Symbol: BK
+Security: BNY Mellon
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "New York City, New York"
+Date added: 1995-03-31
+CIK: 0001390777
+Founded: 1784

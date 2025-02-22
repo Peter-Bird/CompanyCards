@@ -1,0 +1,8 @@
+Symbol: AME
+Security: Ametek
+GICS Sector: Industrials
+GICS Sub-Industry: Electrical Components & Equipment
+Headquarters Location: "Berwyn, Pennsylvania"
+Date added: 2013-09-23
+CIK: 0001037868
+Founded: 1930

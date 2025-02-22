@@ -1,0 +1,8 @@
+Symbol: VRTX
+Security: Vertex Pharmaceuticals
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "Boston, Massachusetts"
+Date added: 2013-09-23
+CIK: 0000875320
+Founded: 1989

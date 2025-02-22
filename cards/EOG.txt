@@ -1,0 +1,8 @@
+Symbol: EOG
+Security: EOG Resources
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Houston, Texas"
+Date added: 2000-11-02
+CIK: 0000821189
+Founded: 1999

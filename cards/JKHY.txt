@@ -1,0 +1,8 @@
+Symbol: JKHY
+Security: Jack Henry & Associates
+GICS Sector: Financials
+GICS Sub-Industry: Transaction & Payment Processing Services
+Headquarters Location: "Monett, Missouri"
+Date added: 2018-11-13
+CIK: 0000779152
+Founded: 1976

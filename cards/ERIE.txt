@@ -1,0 +1,8 @@
+Symbol: ERIE
+Security: Erie Indemnity
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "Erie, Pennsylvania"
+Date added: 2024-09-23
+CIK: 0000922621
+Founded: 1925

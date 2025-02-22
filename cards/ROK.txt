@@ -1,0 +1,8 @@
+Symbol: ROK
+Security: Rockwell Automation
+GICS Sector: Industrials
+GICS Sub-Industry: Electrical Components & Equipment
+Headquarters Location: "Milwaukee, Wisconsin"
+Date added: 2000-03-12
+CIK: 0001024478
+Founded: 1903

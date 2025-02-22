@@ -1,0 +1,8 @@
+Symbol: XEL
+Security: Xcel Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Minneapolis, Minnesota"
+Date added: 1957-03-04
+CIK: 0000072903
+Founded: 1909

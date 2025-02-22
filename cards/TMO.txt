@@ -1,0 +1,8 @@
+Symbol: TMO
+Security: Thermo Fisher Scientific
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Waltham, Massachusetts"
+Date added: 2004-08-03
+CIK: 0000097745
+Founded: 2006 (1902)

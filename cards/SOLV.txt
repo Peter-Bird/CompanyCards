@@ -1,0 +1,8 @@
+Symbol: SOLV
+Security: Solventum
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Technology
+Headquarters Location: "Saint Paul, Minnesota"
+Date added: 2024-04-01
+CIK: 0001964738
+Founded: 2023

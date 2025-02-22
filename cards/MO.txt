@@ -1,0 +1,8 @@
+Symbol: MO
+Security: Altria
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Tobacco
+Headquarters Location: "Richmond, Virginia"
+Date added: 1957-03-04
+CIK: 0000764180
+Founded: 1985

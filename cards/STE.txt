@@ -1,0 +1,8 @@
+Symbol: STE
+Security: Steris
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Dublin, Ireland"
+Date added: 2019-12-23
+CIK: 0001757898
+Founded: 1985

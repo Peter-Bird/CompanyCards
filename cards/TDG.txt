@@ -1,0 +1,8 @@
+Symbol: TDG
+Security: TransDigm Group
+GICS Sector: Industrials
+GICS Sub-Industry: Aerospace & Defense
+Headquarters Location: "Cleveland, Ohio"
+Date added: 2016-06-03
+CIK: 0001260221
+Founded: 1993

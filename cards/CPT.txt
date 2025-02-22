@@ -1,0 +1,8 @@
+Symbol: CPT
+Security: Camden Property Trust
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "Houston, Texas"
+Date added: 2022-04-04
+CIK: 0000906345
+Founded: 1981

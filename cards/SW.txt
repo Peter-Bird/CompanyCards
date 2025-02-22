@@ -1,0 +1,8 @@
+Symbol: SW
+Security: Smurfit WestRock
+GICS Sector: Materials
+GICS Sub-Industry: Paper & Plastic Packaging Products & Materials
+Headquarters Location: "Dublin, Ireland"
+Date added: 2024-07-08
+CIK: 0002005951
+Founded: 1934

@@ -1,0 +1,8 @@
+Symbol: HES
+Security: Hess Corporation
+GICS Sector: Energy
+GICS Sub-Industry: Integrated Oil & Gas
+Headquarters Location: "New York City, New York"
+Date added: 1984-05-31
+CIK: 0000004447
+Founded: 1919

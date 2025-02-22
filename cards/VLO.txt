@@ -1,0 +1,8 @@
+Symbol: VLO
+Security: Valero Energy
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Refining & Marketing
+Headquarters Location: "San Antonio, Texas"
+Date added: 2002-12-20
+CIK: 0001035002
+Founded: 1980

@@ -1,0 +1,8 @@
+Symbol: UNH
+Security: UnitedHealth Group
+GICS Sector: Health Care
+GICS Sub-Industry: Managed Health Care
+Headquarters Location: "Minnetonka, Minnesota"
+Date added: 1994-07-01
+CIK: 0000731766
+Founded: 1977

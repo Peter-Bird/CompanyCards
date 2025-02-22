@@ -1,0 +1,8 @@
+Symbol: EQR
+Security: Equity Residential
+GICS Sector: Real Estate
+GICS Sub-Industry: Multi-Family Residential REITs
+Headquarters Location: "Chicago, Illinois"
+Date added: 2001-12-03
+CIK: 0000906107
+Founded: 1969

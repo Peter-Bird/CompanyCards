@@ -1,0 +1,8 @@
+Symbol: CE
+Security: Celanese
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Irving, Texas"
+Date added: 2018-12-24
+CIK: 0001306830
+Founded: 1918

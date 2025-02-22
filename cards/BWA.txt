@@ -1,0 +1,8 @@
+Symbol: BWA
+Security: BorgWarner
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automotive Parts & Equipment
+Headquarters Location: "Auburn Hills, Michigan"
+Date added: 2011-12-19
+CIK: 0000908255
+Founded: 1880

@@ -1,0 +1,8 @@
+Symbol: SHW
+Security: Sherwin-Williams
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Cleveland, Ohio"
+Date added: 1964-06-30
+CIK: 0000089800
+Founded: 1866

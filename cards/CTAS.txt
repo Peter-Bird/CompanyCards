@@ -1,0 +1,8 @@
+Symbol: CTAS
+Security: Cintas
+GICS Sector: Industrials
+GICS Sub-Industry: Diversified Support Services
+Headquarters Location: "Mason, Ohio"
+Date added: 2001-03-01
+CIK: 0000723254
+Founded: 1929

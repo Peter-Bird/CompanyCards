@@ -1,0 +1,8 @@
+Symbol: LULU
+Security: Lululemon Athletica
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel, Accessories & Luxury Goods
+Headquarters Location: "Vancouver, Canada"
+Date added: 2023-10-18
+CIK: 0001397187
+Founded: 1998

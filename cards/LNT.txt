@@ -1,0 +1,8 @@
+Symbol: LNT
+Security: Alliant Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Madison, Wisconsin"
+Date added: 2016-07-01
+CIK: 0000352541
+Founded: 1917

@@ -1,0 +1,8 @@
+Symbol: DE
+Security: Deere & Company
+GICS Sector: Industrials
+GICS Sub-Industry: Agricultural & Farm Machinery
+Headquarters Location: "Moline, Illinois"
+Date added: 1957-03-04
+CIK: 0000315189
+Founded: 1837

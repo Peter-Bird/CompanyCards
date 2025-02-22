@@ -1,0 +1,8 @@
+Symbol: TT
+Security: Trane Technologies
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Dublin, Ireland"
+Date added: 2010-11-17
+CIK: 0001466258
+Founded: 1871

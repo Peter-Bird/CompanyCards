@@ -1,0 +1,8 @@
+Symbol: CRL
+Security: Charles River Laboratories
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Wilmington, Massachusetts"
+Date added: 2021-05-14
+CIK: 0001100682
+Founded: 1947

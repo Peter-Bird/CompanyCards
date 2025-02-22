@@ -1,0 +1,8 @@
+Symbol: NVR
+Security: NVR, Inc.
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Homebuilding
+Headquarters Location: "Reston, Virginia"
+Date added: 2019-09-26
+CIK: 0000906163
+Founded: 1980

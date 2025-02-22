@@ -1,0 +1,8 @@
+Symbol: KR
+Security: Kroger
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Food Retail
+Headquarters Location: "Cincinnati, Ohio"
+Date added: 1957-03-04
+CIK: 0000056873
+Founded: 1883

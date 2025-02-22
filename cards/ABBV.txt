@@ -1,0 +1,8 @@
+Symbol: ABBV
+Security: AbbVie
+GICS Sector: Health Care
+GICS Sub-Industry: Biotechnology
+Headquarters Location: "North Chicago, Illinois"
+Date added: 2012-12-31
+CIK: 0001551152
+Founded: 2013 (1888)

@@ -1,0 +1,8 @@
+Symbol: HPE
+Security: Hewlett Packard Enterprise
+GICS Sector: Information Technology
+GICS Sub-Industry: Technology Hardware, Storage & Peripherals
+Headquarters Location: "Houston, Texas"
+Date added: 2015-11-02
+CIK: 0001645590
+Founded: 2015

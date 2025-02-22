@@ -1,0 +1,8 @@
+Symbol: TTWO
+Security: Take-Two Interactive
+GICS Sector: Communication Services
+GICS Sub-Industry: Interactive Home Entertainment
+Headquarters Location: "New York City, New York"
+Date added: 2018-03-19
+CIK: 0000946581
+Founded: 1993

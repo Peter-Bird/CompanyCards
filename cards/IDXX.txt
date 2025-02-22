@@ -1,0 +1,8 @@
+Symbol: IDXX
+Security: Idexx Laboratories
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Equipment
+Headquarters Location: "Westbrook, Maine"
+Date added: 2017-01-05
+CIK: 0000874716
+Founded: 1983

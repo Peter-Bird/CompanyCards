@@ -1,0 +1,8 @@
+Symbol: PEP
+Security: PepsiCo
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Soft Drinks & Non-alcoholic Beverages
+Headquarters Location: "Purchase, New York"
+Date added: 1957-03-04
+CIK: 0000077476
+Founded: 1898

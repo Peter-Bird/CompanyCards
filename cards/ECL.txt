@@ -1,0 +1,8 @@
+Symbol: ECL
+Security: Ecolab
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Saint Paul, Minnesota"
+Date added: 1989-01-31
+CIK: 0000031462
+Founded: 1923

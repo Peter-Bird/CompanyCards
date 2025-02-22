@@ -1,0 +1,8 @@
+Symbol: BLK
+Security: BlackRock
+GICS Sector: Financials
+GICS Sub-Industry: Asset Management & Custody Banks
+Headquarters Location: "New York City, New York"
+Date added: 2011-04-04
+CIK: 0002012383
+Founded: 1988

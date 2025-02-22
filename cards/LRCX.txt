@@ -1,0 +1,8 @@
+Symbol: LRCX
+Security: Lam Research
+GICS Sector: Information Technology
+GICS Sub-Industry: Semiconductor Materials & Equipment
+Headquarters Location: "Fremont, California"
+Date added: 2012-06-29
+CIK: 0000707549
+Founded: 1980

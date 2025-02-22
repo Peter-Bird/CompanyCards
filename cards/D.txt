@@ -1,0 +1,8 @@
+Symbol: D
+Security: Dominion Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Richmond, Virginia"
+Date added: 2016-11-30
+CIK: 0000715957
+Founded: 1983

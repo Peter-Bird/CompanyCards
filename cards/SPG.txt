@@ -1,0 +1,8 @@
+Symbol: SPG
+Security: Simon Property Group
+GICS Sector: Real Estate
+GICS Sub-Industry: Retail REITs
+Headquarters Location: "Indianapolis, Indiana"
+Date added: 2002-06-26
+CIK: 0001063761
+Founded: 2003

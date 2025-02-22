@@ -1,0 +1,8 @@
+Symbol: SLB
+Security: Schlumberger
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Equipment & Services
+Headquarters Location: "Houston, Texas"
+Date added: 1957-03-04
+CIK: 0000087347
+Founded: 1926

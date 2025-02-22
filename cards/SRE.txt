@@ -1,0 +1,8 @@
+Symbol: SRE
+Security: Sempra
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "San Diego, California"
+Date added: 2017-03-17
+CIK: 0001032208
+Founded: 1998

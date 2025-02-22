@@ -1,0 +1,8 @@
+Symbol: CNP
+Security: CenterPoint Energy
+GICS Sector: Utilities
+GICS Sub-Industry: Multi-Utilities
+Headquarters Location: "Houston, Texas"
+Date added: 1985-07-31
+CIK: 0001130310
+Founded: 1882

@@ -1,0 +1,8 @@
+Symbol: GNRC
+Security: Generac
+GICS Sector: Industrials
+GICS Sub-Industry: Electrical Components & Equipment
+Headquarters Location: "Waukesha, Wisconsin"
+Date added: 2021-03-22
+CIK: 0001474735
+Founded: 1959

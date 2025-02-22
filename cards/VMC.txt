@@ -1,0 +1,8 @@
+Symbol: VMC
+Security: Vulcan Materials Company
+GICS Sector: Materials
+GICS Sub-Industry: Construction Materials
+Headquarters Location: "Birmingham, Alabama"
+Date added: 1999-06-30
+CIK: 0001396009
+Founded: 1909

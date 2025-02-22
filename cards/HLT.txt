@@ -1,0 +1,8 @@
+Symbol: HLT
+Security: Hilton Worldwide
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Hotels, Resorts & Cruise Lines
+Headquarters Location: "Tysons Corner, Virginia"
+Date added: 2017-06-19
+CIK: 0001585689
+Founded: 1919

@@ -1,0 +1,8 @@
+Symbol: UBER
+Security: Uber
+GICS Sector: Industrials
+GICS Sub-Industry: Passenger Ground Transportation
+Headquarters Location: "San Francisco, California"
+Date added: 2023-12-18
+CIK: 0001543151
+Founded: 2009

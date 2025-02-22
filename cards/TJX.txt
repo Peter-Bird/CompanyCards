@@ -1,0 +1,8 @@
+Symbol: TJX
+Security: TJX Companies
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel Retail
+Headquarters Location: "Framingham, Massachusetts"
+Date added: 1985-09-30
+CIK: 0000109198
+Founded: 1987

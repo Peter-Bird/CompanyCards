@@ -1,0 +1,8 @@
+Symbol: LOW
+Security: Lowe's
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Home Improvement Retail
+Headquarters Location: "Mooresville, North Carolina"
+Date added: 1984-02-29
+CIK: 0000060667
+Founded: 1904/1946/1959

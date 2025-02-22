@@ -1,0 +1,8 @@
+Symbol: USB
+Security: U.S. Bancorp
+GICS Sector: Financials
+GICS Sub-Industry: Diversified Banks
+Headquarters Location: "Minneapolis, Minnesota"
+Date added: 1999-11-01
+CIK: 0000036104
+Founded: 1968

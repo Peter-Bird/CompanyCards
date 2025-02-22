@@ -1,0 +1,8 @@
+Symbol: TPR
+Security: Tapestry, Inc.
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Apparel, Accessories & Luxury Goods
+Headquarters Location: "New York City, New York"
+Date added: 2004-09-01
+CIK: 0001116132
+Founded: 2017

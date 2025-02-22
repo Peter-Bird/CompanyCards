@@ -1,0 +1,8 @@
+Symbol: HD
+Security: Home Depot (The)
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Home Improvement Retail
+Headquarters Location: "Atlanta, Georgia"
+Date added: 1988-03-31
+CIK: 0000354950
+Founded: 1978

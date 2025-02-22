@@ -1,0 +1,8 @@
+Symbol: HCA
+Security: HCA Healthcare
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Facilities
+Headquarters Location: "Nashville, Tennessee"
+Date added: 2015-01-27
+CIK: 0000860730
+Founded: 1968

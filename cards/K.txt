@@ -1,0 +1,8 @@
+Symbol: K
+Security: Kellanova
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Chicago, Illinois"
+Date added: 1989-09-11
+CIK: 0000055067
+Founded: 1906

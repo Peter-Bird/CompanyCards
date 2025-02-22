@@ -1,0 +1,8 @@
+Symbol: VZ
+Security: Verizon
+GICS Sector: Communication Services
+GICS Sub-Industry: Integrated Telecommunication Services
+Headquarters Location: "New York City, New York"
+Date added: 1983-11-30
+CIK: 0000732712
+Founded: 1983 (1877)

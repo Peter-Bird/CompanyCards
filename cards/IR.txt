@@ -1,0 +1,8 @@
+Symbol: IR
+Security: Ingersoll Rand
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Davidson, North Carolina"
+Date added: 2020-03-03
+CIK: 0001699150
+Founded: 1859

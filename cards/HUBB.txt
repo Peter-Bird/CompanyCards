@@ -1,0 +1,8 @@
+Symbol: HUBB
+Security: Hubbell Incorporated
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Machinery & Supplies & Components
+Headquarters Location: "Shelton, Connecticut"
+Date added: 2023-10-18
+CIK: 0000048898
+Founded: 1888

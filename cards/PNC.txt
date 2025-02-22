@@ -1,0 +1,8 @@
+Symbol: PNC
+Security: PNC Financial Services
+GICS Sector: Financials
+GICS Sub-Industry: Diversified Banks
+Headquarters Location: "Pittsburgh, Pennsylvania"
+Date added: 1988-04-30
+CIK: 0000713676
+Founded: 1845

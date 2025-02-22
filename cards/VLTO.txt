@@ -1,0 +1,8 @@
+Symbol: VLTO
+Security: Veralto
+GICS Sector: Industrials
+GICS Sub-Industry: Environmental & Facilities Services
+Headquarters Location: "Waltham, Massachusetts"
+Date added: 2023-10-02
+CIK: 0001967680
+Founded: 2023

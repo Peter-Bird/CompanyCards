@@ -1,0 +1,8 @@
+Symbol: ORLY
+Security: O'Reilly Auto Parts
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automotive Retail
+Headquarters Location: "Springfield, Missouri"
+Date added: 2009-03-27
+CIK: 0000898173
+Founded: 1957

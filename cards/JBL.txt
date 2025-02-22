@@ -1,0 +1,8 @@
+Symbol: JBL
+Security: Jabil
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Manufacturing Services
+Headquarters Location: "St. Petersburg, Florida"
+Date added: 2023-12-18
+CIK: 0000898293
+Founded: 1966

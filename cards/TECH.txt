@@ -1,0 +1,8 @@
+Symbol: TECH
+Security: Bio-Techne
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Minneapolis, Minnesota"
+Date added: 2021-08-30
+CIK: 0000842023
+Founded: 1976

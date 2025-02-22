@@ -1,0 +1,8 @@
+Symbol: CB
+Security: Chubb Limited
+GICS Sector: Financials
+GICS Sub-Industry: Property & Casualty Insurance
+Headquarters Location: "Zurich, Switzerland"
+Date added: 2010-07-15
+CIK: 0000896159
+Founded: 1985

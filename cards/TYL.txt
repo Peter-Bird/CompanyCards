@@ -1,0 +1,8 @@
+Symbol: TYL
+Security: Tyler Technologies
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "Plano, Texas"
+Date added: 2020-06-22
+CIK: 0000860731
+Founded: 1966

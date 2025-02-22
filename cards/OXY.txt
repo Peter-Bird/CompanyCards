@@ -1,0 +1,8 @@
+Symbol: OXY
+Security: Occidental Petroleum
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Houston, Texas"
+Date added: 1957-03-04
+CIK: 0000797468
+Founded: 1920

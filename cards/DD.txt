@@ -1,0 +1,8 @@
+Symbol: DD
+Security: DuPont
+GICS Sector: Materials
+GICS Sub-Industry: Specialty Chemicals
+Headquarters Location: "Wilmington, Delaware"
+Date added: 2019-04-02
+CIK: 0001666700
+Founded: 2017 (1802)

@@ -1,0 +1,8 @@
+Symbol: MPC
+Security: Marathon Petroleum
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Refining & Marketing
+Headquarters Location: "Findlay, Ohio"
+Date added: 2011-07-01
+CIK: 0001510295
+Founded: 2009 (1887)

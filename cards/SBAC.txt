@@ -1,0 +1,8 @@
+Symbol: SBAC
+Security: SBA Communications
+GICS Sector: Real Estate
+GICS Sub-Industry: Telecom Tower REITs
+Headquarters Location: "Boca Raton, Florida"
+Date added: 2017-09-01
+CIK: 0001034054
+Founded: 1989

@@ -1,0 +1,8 @@
+Symbol: CARR
+Security: Carrier Global
+GICS Sector: Industrials
+GICS Sub-Industry: Building Products
+Headquarters Location: "Palm Beach Gardens, Florida"
+Date added: 2020-04-03
+CIK: 0001783180
+Founded: 2020 (1915, United Technologies spinoff)

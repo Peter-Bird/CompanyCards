@@ -1,0 +1,8 @@
+Symbol: RF
+Security: Regions Financial Corporation
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Birmingham, Alabama"
+Date added: 1998-08-28
+CIK: 0001281761
+Founded: 1971

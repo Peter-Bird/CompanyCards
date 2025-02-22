@@ -1,0 +1,8 @@
+Symbol: STLD
+Security: Steel Dynamics
+GICS Sector: Materials
+GICS Sub-Industry: Steel
+Headquarters Location: "Fort Wayne, Indiana"
+Date added: 2022-12-22
+CIK: 0001022671
+Founded: 1993

@@ -1,0 +1,8 @@
+Symbol: ADBE
+Security: Adobe Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Application Software
+Headquarters Location: "San Jose, California"
+Date added: 1997-05-05
+CIK: 0000796343
+Founded: 1982

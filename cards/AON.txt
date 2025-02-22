@@ -1,0 +1,8 @@
+Symbol: AON
+Security: Aon
+GICS Sector: Financials
+GICS Sub-Industry: Insurance Brokers
+Headquarters Location: "London, UK"
+Date added: 1996-04-23
+CIK: 0000315293
+Founded: 1982 (1919)

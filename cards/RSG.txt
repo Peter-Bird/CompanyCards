@@ -1,0 +1,8 @@
+Symbol: RSG
+Security: Republic Services
+GICS Sector: Industrials
+GICS Sub-Industry: Environmental & Facilities Services
+Headquarters Location: "Phoenix, Arizona"
+Date added: 2008-12-05
+CIK: 0001060391
+Founded: 1998 (1981)

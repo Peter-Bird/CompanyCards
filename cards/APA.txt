@@ -1,0 +1,8 @@
+Symbol: APA
+Security: APA Corporation
+GICS Sector: Energy
+GICS Sub-Industry: Oil & Gas Exploration & Production
+Headquarters Location: "Houston, Texas"
+Date added: 1997-07-28
+CIK: 0001841666
+Founded: 1954

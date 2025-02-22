@@ -1,0 +1,8 @@
+Symbol: MCD
+Security: McDonald's
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Restaurants
+Headquarters Location: "Chicago, Illinois"
+Date added: 1970-06-30
+CIK: 0000063908
+Founded: 1940

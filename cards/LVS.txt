@@ -1,0 +1,8 @@
+Symbol: LVS
+Security: Las Vegas Sands
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Casinos & Gaming
+Headquarters Location: "Las Vegas, Nevada"
+Date added: 2019-10-03
+CIK: 0001300514
+Founded: 1988

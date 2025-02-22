@@ -1,0 +1,8 @@
+Symbol: HSIC
+Security: Henry Schein
+GICS Sector: Health Care
+GICS Sub-Industry: Health Care Distributors
+Headquarters Location: "Melville, New York"
+Date added: 2015-03-17
+CIK: 0001000228
+Founded: 1932

@@ -1,0 +1,8 @@
+Symbol: TRMB
+Security: Trimble Inc.
+GICS Sector: Information Technology
+GICS Sub-Industry: Electronic Equipment & Instruments
+Headquarters Location: "Westminster, Colorado"
+Date added: 2021-01-21
+CIK: 0000864749
+Founded: 1978

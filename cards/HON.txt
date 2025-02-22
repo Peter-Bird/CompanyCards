@@ -1,0 +1,8 @@
+Symbol: HON
+Security: Honeywell
+GICS Sector: Industrials
+GICS Sub-Industry: Industrial Conglomerates
+Headquarters Location: "Charlotte, North Carolina"
+Date added: 1957-03-04
+CIK: 0000773840
+Founded: 1906

@@ -1,0 +1,8 @@
+Symbol: CFG
+Security: Citizens Financial Group
+GICS Sector: Financials
+GICS Sub-Industry: Regional Banks
+Headquarters Location: "Providence, Rhode Island"
+Date added: 2016-01-29
+CIK: 0000759944
+Founded: 1828

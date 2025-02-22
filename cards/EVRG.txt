@@ -1,0 +1,8 @@
+Symbol: EVRG
+Security: Evergy
+GICS Sector: Utilities
+GICS Sub-Industry: Electric Utilities
+Headquarters Location: "Kansas City, Missouri"
+Date added: 2018-06-05
+CIK: 0001711269
+Founded: 1909

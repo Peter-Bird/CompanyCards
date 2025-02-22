@@ -1,0 +1,8 @@
+Symbol: MS
+Security: Morgan Stanley
+GICS Sector: Financials
+GICS Sub-Industry: Investment Banking & Brokerage
+Headquarters Location: "New York City, New York"
+Date added: 1993-07-29
+CIK: 0000895421
+Founded: 1935

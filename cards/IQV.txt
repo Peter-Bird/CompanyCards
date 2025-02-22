@@ -1,0 +1,8 @@
+Symbol: IQV
+Security: IQVIA
+GICS Sector: Health Care
+GICS Sub-Industry: Life Sciences Tools & Services
+Headquarters Location: "Durham, North Carolina"
+Date added: 2017-08-29
+CIK: 0001478242
+Founded: 1982

@@ -1,0 +1,8 @@
+Symbol: SJM
+Security: J.M. Smucker Company (The)
+GICS Sector: Consumer Staples
+GICS Sub-Industry: Packaged Foods & Meats
+Headquarters Location: "Orrville, Ohio"
+Date added: 2008-11-06
+CIK: 0000091419
+Founded: 1897
