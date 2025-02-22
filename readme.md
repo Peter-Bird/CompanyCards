@@ -20,7 +20,7 @@ For each row in the CSV file, the script creates a text file named after the com
 
 - `CompanyCards.py`: The Python script that processes the CSV and writes the output files.
 - `sap500Info.csv`: Example CSV file containing company information (this file should be provided by the user).
-- `output_files/`: The directory where the generated text files are stored.
+- `cards/`: The directory where the generated text files are stored.
 - `README.md`: This file.
 
 ## Features
